@@ -1,0 +1,24 @@
+function rate(filteredData){ 
+  console.log("raj", filteredData);
+      tbody.html("");
+      filteredData.forEach((UFOReport) => {
+        var temp_catgry = filteredData.Category;
+        ratezip(temp_catgry);   
+        ufodtls.filter(ufo => {
+          console.log(ufo.Category)
+        });        
+        var row = tbody.append("tr");
+        Object.entries(UFOReport).forEach(([key, value]) => {
+          var cell = tbody.append("td");
+          cell.text(value);
+        });
+      });
+}
+
+function ratezip(temp_catgry){
+    var catgry = ['Pharmacy', 'Grocery', 'Restaurant', 'Fast Food', 'Gas Stations/Convenience Stores', 'Hospitals/Urgent Care']
+    for (temp_catgry in catgry) {
+        score++;
+        console.log("rajit", score);
+    } 
+}  

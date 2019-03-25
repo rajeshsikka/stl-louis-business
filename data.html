@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  
+  <!-- Bring in our bootstrap stylesheet -->
+  <meta charset="utf-8">
+  <title>Welcome Stlouis</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="static/css/style_data.css">
+  
+</head>
+
+<body>
+    <nav class="navbar navbar-light bg-light navbar-expand-lg fixed-top">
+        <a href="index.html" class="navbar-brand">St.louis City Project</a>
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav ml-auto">
+              <li class="navbar-item">
+                    <a href="index.html" class="nav-link">Home</a>
+             </li>
+
+                <li class="navbar-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Plots</a>
+                     <div class="dropdown-menu">
+                        <a href="dropdown-1.html" class="dropdown-item">Dropdown 1</a>
+                        <a href="dropdown-2.html" class="dropdown-item">Dropdown 2</a>
+                        <a href="dropdown-3.html" class="dropdown-item">Dropdown 3</a>
+                        
+                    </div>
+                </li>
+
+                <li class="navbar-item">
+                    <a href="comparison.html" class="nav-link">Comparison</a>
+                </li>
+
+                <li class="navbar-item">
+                    <a href="data.html" class="nav-link active">Data</a>                    
+                </li>
+
+                <li class="navbar-item">
+                    <a href="contact.html" class="nav-link">About</a>
+                </li>
+
+            </ul>
+        </div>
+    </nav>
+
+    <div class="hero text-center">
+        <h1> St.Louis </h1>
+        <p>City Businesses</p>
+      </div>
+      <div class="container">
+        <div class="row margin-top-75">
+          <div class="col-md-2">
+            <aside class="filters">
+              <div class="panel panel-default">
+                <div class="panel-heading">Filter Search</div>
+                <div class="panel-body">
+                  <form>
+                    <div class="form-group">
+                      <ul class="list-group" id="filters">
+                        <li class="filter list-group-item">
+                          <label for="date">Select a Zip</label>
+                          <select id="Zip" style="color:black;font-weight:bold" >
+                            <option selected="selected"> </option>
+                            <option value="63101">63101</option>
+                            <option value="63102">63102</option>
+                            <option value="63103">63103</option>
+                            <option value="63104">63104</option>
+                            <option value="63106">63106</option>
+                            <option value="63108">63108</option>
+                            <option value="63109">63109</option>
+                            <option value="63110">63110</option>
+                            <option value="63111">63111</option>
+                            <option value="63112">63112</option>
+                            <option value="63115">63115</option>
+                            <option value="63116">63116</option>
+                            <option value="63118">63118</option>
+                            <option value="63139">63139</option>
+                            <option value="63147">63147</option>
+                          </select>
+                          <!----input class="form-control" id="Zip" type="text" placeholder=""--->
+                        </li>
+                      </ul>
+                    </div>
+                    <button id="filter-btn" type="submit" class="btn btn-default">Filter Table</button>
+                  </form>
+                  <br>
+                  <h4>Rating</h4>
+                  <p id="Rate"></p>
+                </div>
+              </div>
+            </aside>
+          </div>
+          <div class="col-md-10">
+            <div id="table-area" class="">
+              <table id="bus-table" class="table table-striped">
+                <thead>
+                  <tr>
+                    <th class="table-head">Business</th>
+                    <th class="table-head">Address</th>
+                    <th class="table-head">City</th>
+                    <th class="table-head">Zip</th>
+                    <th class="table-head">State</th>
+                    <th class="table-head">Category</th>
+                    <th class="table-head">Latitude</th>
+                    <th class="table-head">Longitude</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer class="footer">
+        <span class="bottom"></span>
+      </footer>
+    </div>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>  
+  <script src="static/js/data.js"></script>
+  <script src="static/js/app-rate.js"></script>  
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+
+</html>
