@@ -1,0 +1,2287 @@
+{
+    "businesses": [
+        {
+            "id": "R1lq1J42UkLz4sEOOG6CVw",
+            "alias": "steak-n-shake-saint-louis-12",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uFxmNN93wXqO46tDayy9AA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-louis-12?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 88,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.6127792,
+                "longitude": -90.3268591
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "7606 Manchester Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63143",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "7606 Manchester Rd",
+                    "Saint Louis, MO 63143"
+                ]
+            },
+            "phone": "+13146451815",
+            "display_phone": "(314) 645-1815",
+            "distance": 480.5294524200277
+        },
+        {
+            "id": "mmnneqm5rY6MNwF--uScYw",
+            "alias": "steak-n-shake-saint-louis-24",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TiwRnOlfsPnIpMCHkU_xhA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-louis-24?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.5910305000569,
+                "longitude": -90.271603794847
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4640 Chippewa St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63116",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4640 Chippewa St",
+                    "Saint Louis, MO 63116"
+                ]
+            },
+            "phone": "+13144806566",
+            "display_phone": "(314) 480-6566",
+            "distance": 4932.798964676893
+        },
+        {
+            "id": "V3YIe0PLC8Y0TJ0ncGo_mw",
+            "alias": "steak-n-shake-saint-louis-8",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bgspbK5uTq0PJWMOnRUt-g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-louis-8?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.5067479,
+                "longitude": -90.3282639
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "7310 S Lindbergh",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63125",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "7310 S Lindbergh",
+                    "Saint Louis, MO 63125"
+                ]
+            },
+            "phone": "+13144874144",
+            "display_phone": "(314) 487-4144",
+            "distance": 11763.086238102293
+        },
+        {
+            "id": "FmeoZuSHiV0eFrd5mF9DcQ",
+            "alias": "steak-n-shake-saint-louis-25",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Uxqvgx4tghYwwWbADIBh4w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-louis-25?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 116,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.6272167,
+                "longitude": -90.2878138
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1253 Hampton Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63139",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1253 Hampton Ave",
+                    "Saint Louis, MO 63139"
+                ]
+            },
+            "phone": "+13146467200",
+            "display_phone": "(314) 646-7200",
+            "distance": 3347.2211167034316
+        },
+        {
+            "id": "kWru4cXHzbVVBepEetPzZg",
+            "alias": "steak-n-shake-saint-louis-3",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yY-L03dbxc4vhChXWRZRug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-louis-3?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.6920498,
+                "longitude": -90.3915627
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "10459 Page Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63132",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "10459 Page Ave",
+                    "Saint Louis, MO 63132"
+                ]
+            },
+            "phone": "+13144294436",
+            "display_phone": "(314) 429-4436",
+            "distance": 10752.637720796423
+        },
+        {
+            "id": "Vm2vdXFSZ7U746n4ySCVtQ",
+            "alias": "steak-n-shake-saint-louis-16",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Oz47bL_vIwNLZgCtUtTvVA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-louis-16?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.4965,
+                "longitude": -90.29855
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3226 Telegraph Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63125",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3226 Telegraph Rd",
+                    "Saint Louis, MO 63125"
+                ]
+            },
+            "phone": "+13148924865",
+            "display_phone": "(314) 892-4865",
+            "distance": 13058.5721666757
+        },
+        {
+            "id": "Mwo6_kET9zmL4WItyeMj9w",
+            "alias": "steak-n-shake-saint-louis",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BL2nEilg0h6m_P-rxZWWZw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 60,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.563792,
+                "longitude": -90.2943032
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "7350 Gravois",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63116",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "7350 Gravois",
+                    "Saint Louis, MO 63116"
+                ]
+            },
+            "phone": "+13143529264",
+            "display_phone": "(314) 352-9264",
+            "distance": 5893.8179622435655
+        },
+        {
+            "id": "7Rm9Ba50bw23KTA8RedZYg",
+            "alias": "steak-n-shake-saint-louis-13",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OxSO1gZ3SvUD9_p0849VgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-louis-13?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.5318436,
+                "longitude": -90.2880976
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1300 Lemay Ferry Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63125",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1300 Lemay Ferry Rd",
+                    "Saint Louis, MO 63125"
+                ]
+            },
+            "phone": "+13145440411",
+            "display_phone": "(314) 544-0411",
+            "distance": 9412.130842793838
+        },
+        {
+            "id": "fOLZXKg7ruVriBACbR6AsQ",
+            "alias": "steak-n-shake-st-louis-3",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3zY-pwwlrBVHoU0blxBnlg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-st-louis-3?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 39,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.5651485,
+                "longitude": -90.3596604
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8609 Watson Rd",
+                "address2": "",
+                "address3": "",
+                "city": "St Louis",
+                "zip_code": "63119",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "8609 Watson Rd",
+                    "St Louis, MO 63119"
+                ]
+            },
+            "phone": "+13149611184",
+            "display_phone": "(314) 961-1184",
+            "distance": 6220.147568555739
+        },
+        {
+            "id": "bGEi2BqDNGYFDtNzJhpABw",
+            "alias": "steak-n-shake-sunset-hills",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HSpLNfNQd0vpEseb7d2irw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-sunset-hills?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 37,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.55689,
+                "longitude": -90.40769
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1525 S Kirkwood Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Sunset Hills",
+                "zip_code": "63127",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1525 S Kirkwood Rd",
+                    "Sunset Hills, MO 63127"
+                ]
+            },
+            "phone": "+13142661240",
+            "display_phone": "(314) 266-1240",
+            "distance": 9711.97107610297
+        },
+        {
+            "id": "L-M6UW4d0HOCtgMTTxZNLA",
+            "alias": "steak-n-shake-ballwin-5",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ftPTLSBUocfBMx7Vu_OYgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-ballwin-5?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.596823,
+                "longitude": -90.4829628
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "13849 Manchester Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Ballwin",
+                "zip_code": "63011",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "13849 Manchester Rd",
+                    "Ballwin, MO 63011"
+                ]
+            },
+            "phone": "+13148351677",
+            "display_phone": "(314) 835-1677",
+            "distance": 14149.7855895234
+        },
+        {
+            "id": "iig9_E2ODClHUylyb_eZmA",
+            "alias": "steak-n-shake-st-louis-6",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8d_IoYLW5pfI6ly2JuBMrw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-st-louis-6?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 44,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.727464,
+                "longitude": -90.342657
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "9550 Natural Bridge",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63134",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "9550 Natural Bridge",
+                    "St. Louis, MO 63134"
+                ]
+            },
+            "phone": "+13144273277",
+            "display_phone": "(314) 427-3277",
+            "distance": 12927.511228286807
+        },
+        {
+            "id": "PaVv8oDCYfLCiRs6ox7P0A",
+            "alias": "steak-n-shake-st-louis-5",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G5Ze1iOJc4I-Lp1JiJgjVQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-st-louis-5?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.5224767,
+                "longitude": -90.3474981
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "5828 South Lindbergh",
+                "address2": "",
+                "address3": "",
+                "city": "St Louis",
+                "zip_code": "63123",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "5828 South Lindbergh",
+                    "St Louis, MO 63123"
+                ]
+            },
+            "phone": "+13148433120",
+            "display_phone": "(314) 843-3120",
+            "distance": 10253.929095540045
+        },
+        {
+            "id": "v05BYE7TfTNCdXoYvvv17g",
+            "alias": "steak-n-shake-fenton-2",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BF-aSfPn2o3MLQHpAcPRxw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-fenton-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.50819,
+                "longitude": -90.44195
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "677 Gravois Bluffs Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Fenton",
+                "zip_code": "63026",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "677 Gravois Bluffs Blvd",
+                    "Fenton, MO 63026"
+                ]
+            },
+            "phone": "+16363494538",
+            "display_phone": "(636) 349-4538",
+            "distance": 15611.232081127451
+        },
+        {
+            "id": "1lVORLOmRYIEKVSpehlGBg",
+            "alias": "steak-n-shake-saint-ann",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pVCYB3Xsh2n_KnE3NSaS6w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-ann?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 28,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.7310071,
+                "longitude": -90.4051977
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3549 N Lindbergh",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Ann",
+                "zip_code": "63074",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3549 N Lindbergh",
+                    "Saint Ann, MO 63074"
+                ]
+            },
+            "phone": "+13147396014",
+            "display_phone": "(314) 739-6014",
+            "distance": 15064.162548373462
+        },
+        {
+            "id": "vYBCHqCPMzXKEqnAsLufNw",
+            "alias": "steak-n-shake-chesterfield-3",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h_VuFjSMn-pnGoiZu5oeBQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-chesterfield-3?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 83,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.67926,
+                "longitude": -90.49759
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "13426 Olive Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Chesterfield",
+                "zip_code": "63017",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "13426 Olive Blvd",
+                    "Chesterfield, MO 63017"
+                ]
+            },
+            "phone": "+13144347512",
+            "display_phone": "(314) 434-7512",
+            "distance": 17034.46662377144
+        },
+        {
+            "id": "sikefl5Nj00MNQ1OUyCEcg",
+            "alias": "carls-drive-in-brentwood",
+            "name": "Carl's Drive In",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/53JNQVfx8JL_PFuqNekZmg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/carls-drive-in-brentwood?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 203,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.612737,
+                "longitude": -90.354311
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "9033 Manchester Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Brentwood",
+                "zip_code": "63144",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "9033 Manchester Rd",
+                    "Brentwood, MO 63144"
+                ]
+            },
+            "phone": "+13149619652",
+            "display_phone": "(314) 961-9652",
+            "distance": 2872.7092346921245
+        },
+        {
+            "id": "yg8OzI6hKoWWkaeDBF3bpg",
+            "alias": "steak-n-shake-maryland-heights-2",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/p3UoYbIYgoOHuS8NntCb3A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-maryland-heights-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 67,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.7150764,
+                "longitude": -90.4544245
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "12607 Dorsett Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Maryland Heights",
+                "zip_code": "63043",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "12607 Dorsett Rd",
+                    "Maryland Heights, MO 63043"
+                ]
+            },
+            "phone": "+13148780524",
+            "display_phone": "(314) 878-0524",
+            "distance": 16243.484853652093
+        },
+        {
+            "id": "n4PdRDOWgBOhke7AqCW3FA",
+            "alias": "shake-shack-st-louis-2",
+            "name": "Shake Shack",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XIfiSjx71RK_lKxA5cOpFQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shake-shack-st-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 224,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.641616,
+                "longitude": -90.261793
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "60 North Euclid",
+                "address2": "",
+                "address3": null,
+                "city": "St. Louis",
+                "zip_code": "63108",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "60 North Euclid",
+                    "St. Louis, MO 63108"
+                ]
+            },
+            "phone": "+13146275518",
+            "display_phone": "(314) 627-5518",
+            "distance": 6109.160708663837
+        },
+        {
+            "id": "zOIE-880XmQ1XNkyXAKd5A",
+            "alias": "steak-n-shake-chesterfield-4",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xn9McW3ZiMylEzsD1rcU9g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-chesterfield-4?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 89,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.6678512,
+                "longitude": -90.6026865
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "17312 Chesterfield Airport Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Chesterfield",
+                "zip_code": "63005",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "17312 Chesterfield Airport Rd",
+                    "Chesterfield, MO 63005"
+                ]
+            },
+            "phone": "+16365197167",
+            "display_phone": "(636) 519-7167",
+            "distance": 25200.74176933675
+        },
+        {
+            "id": "-imlMPrEJ8cc99qjEclKVA",
+            "alias": "steak-n-shake-o-fallon-5",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9GZ2uyT0ikNot8IMdh5NQg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-o-fallon-5?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 46,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.5916776,
+                "longitude": -89.9396657
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "109 Regency Park",
+                "address2": "",
+                "address3": "",
+                "city": "O Fallon",
+                "zip_code": "62269",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "109 Regency Park",
+                    "O Fallon, IL 62269"
+                ]
+            },
+            "phone": "+16186288830",
+            "display_phone": "(618) 628-8830",
+            "distance": 33247.72108323458
+        },
+        {
+            "id": "pBGQqWycY1-B1L1nYoBXvA",
+            "alias": "steak-n-shake-edwardsville-3",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/964IbdVGGeM486us0Z5ChA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-edwardsville-3?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.78494,
+                "longitude": -89.95052
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2382 Troy Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Edwardsville",
+                "zip_code": "62025",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2382 Troy Rd",
+                    "Edwardsville, IL 62025"
+                ]
+            },
+            "phone": "+16186591840",
+            "display_phone": "(618) 659-1840",
+            "distance": 37475.92536726202
+        },
+        {
+            "id": "yZt4N5mndhnde7zwJMqFTw",
+            "alias": "steak-n-shake-o-fallon",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mvVTVQONUiRgrUIz0ksvwg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-o-fallon?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 53,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.757212,
+                "longitude": -90.698867
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2998 Hwy K O'Fallon Crossing",
+                "address2": "",
+                "address3": "",
+                "city": "O Fallon",
+                "zip_code": "63366",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2998 Hwy K O'Fallon Crossing",
+                    "O Fallon, MO 63366"
+                ]
+            },
+            "phone": "+16362402049",
+            "display_phone": "(636) 240-2049",
+            "distance": 36510.37625845487
+        },
+        {
+            "id": "DzVYXX8mc5x31BbaP8c0_Q",
+            "alias": "macs-local-eats-st-louis",
+            "name": "Mac's Local Eats",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JZPlc2oA92H97coU9pbMTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/macs-local-eats-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 127,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.6277012,
+                "longitude": -90.2930357
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1225 Tamm Ave",
+                "address2": "",
+                "address3": null,
+                "city": "St Louis",
+                "zip_code": "63139",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1225 Tamm Ave",
+                    "St Louis, MO 63139"
+                ]
+            },
+            "phone": "+13144798155",
+            "display_phone": "(314) 479-8155",
+            "distance": 2991.083542920068
+        },
+        {
+            "id": "SgrFU_8cgwhkly1sS5pZBw",
+            "alias": "steak-n-shake-saint-charles-2",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FOJi4m6pxNDumX1mFMflyA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-charles-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 37,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.7802315,
+                "longitude": -90.5087652
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2221 First Capitol Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Charles",
+                "zip_code": "63301",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2221 First Capitol Dr",
+                    "Saint Charles, MO 63301"
+                ]
+            },
+            "phone": "+16367243234",
+            "display_phone": "(636) 724-3234",
+            "distance": 24755.171338364653
+        },
+        {
+            "id": "sv3mfbZEI8frLbUbRPaQqA",
+            "alias": "steak-n-shake-collinsville",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Z1YddZgGpusgFHnkl1xNPA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-collinsville?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.68483,
+                "longitude": -90.00985
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "606 N Bluff",
+                "address2": "",
+                "address3": "",
+                "city": "Collinsville",
+                "zip_code": "62234",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "606 N Bluff",
+                    "Collinsville, IL 62234"
+                ]
+            },
+            "phone": "+16186230004",
+            "display_phone": "(618) 623-0004",
+            "distance": 28215.9924444502
+        },
+        {
+            "id": "S9Yq0v8Re7Bz3slcBN7Kgg",
+            "alias": "steak-n-shake-alton",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h8Pvt2MN5cqlqbUilLJ-OQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-alton?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.9228533,
+                "longitude": -90.1794866
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "80 Homer Adams Pkwy",
+                "address2": "",
+                "address3": "",
+                "city": "Alton",
+                "zip_code": "62002",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "80 Homer Adams Pkwy",
+                    "Alton, IL 62002"
+                ]
+            },
+            "phone": "+16182080571",
+            "display_phone": "(618) 208-0571",
+            "distance": 36646.589544672715
+        },
+        {
+            "id": "paBWJ6VBIy4-eXVH3iGFFA",
+            "alias": "courtesy-diner-saint-louis",
+            "name": "Courtesy Diner",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tXSKfigthPIWf4vjf_Bjng/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/courtesy-diner-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 117,
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.6287499,
+                "longitude": -90.28757
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1121 Hampton Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63139",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1121 Hampton Ave",
+                    "Saint Louis, MO 63139"
+                ]
+            },
+            "phone": "+13146442600",
+            "display_phone": "(314) 644-2600",
+            "distance": 3452.7721664488386
+        },
+        {
+            "id": "UuWmmOQmv3LictBHYveo8Q",
+            "alias": "steak-n-shake-ballwin-3",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0U3vlzxe-omCiuWhT9Zz7g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-ballwin-3?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 28,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.59244,
+                "longitude": -90.52959
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "14646 Manchester Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Ballwin",
+                "zip_code": "63011",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "14646 Manchester Rd",
+                    "Ballwin, MO 63011"
+                ]
+            },
+            "phone": "+16362077100",
+            "display_phone": "(636) 207-7100",
+            "distance": 18231.982122870948
+        },
+        {
+            "id": "3ovV2S7XEAOEk8hCdYKhOA",
+            "alias": "hi-pointe-drive-in-st-louis-4",
+            "name": "Hi-Pointe Drive-In",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ESJMG3mf8YbFyAAE-oHcgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hi-pointe-drive-in-st-louis-4?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 401,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.632134,
+                "longitude": -90.305623
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1033 McCausland Ave",
+                "address2": "",
+                "address3": null,
+                "city": "St Louis",
+                "zip_code": "63117",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1033 McCausland Ave",
+                    "St Louis, MO 63117"
+                ]
+            },
+            "phone": "+13143492720",
+            "display_phone": "(314) 349-2720",
+            "distance": 2585.118708462502
+        },
+        {
+            "id": "QeAouJuRkWWJl_IPgF1xWA",
+            "alias": "steak-n-shake-saint-louis-5",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-qZQ2Qdwc9NXKNEAAQqWgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-louis-5?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.7714799,
+                "longitude": -90.2214
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "11035 Bellefontaine",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63138",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "11035 Bellefontaine",
+                    "Saint Louis, MO 63138"
+                ]
+            },
+            "phone": "+13148699151",
+            "display_phone": "(314) 869-9151",
+            "distance": 19705.31109431381
+        },
+        {
+            "id": "U0sjKBnSMN5SnWd_xU4GrQ",
+            "alias": "chuck-a-burger-saint-louis",
+            "name": "Chuck A Burger",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h2CtMKxLtBhMs0kdL-TRCg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chuck-a-burger-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 87,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.713298,
+                "longitude": -90.354098
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "9025 St Charles Rock Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63114",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "9025 St Charles Rock Rd",
+                    "Saint Louis, MO 63114"
+                ]
+            },
+            "phone": "+13144279524",
+            "display_phone": "(314) 427-9524",
+            "distance": 11580.14292054199
+        },
+        {
+            "id": "PUuHnOMtsnFZCeTwQ2AbcQ",
+            "alias": "steak-n-shake-belleville",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DvS48HaTIhVEXxCEqePStw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-belleville?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.5387109,
+                "longitude": -90.0217227
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "4320 W  Main",
+                "address2": "",
+                "address3": "",
+                "city": "Belleville",
+                "zip_code": "62226",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "4320 W  Main",
+                    "Belleville, IL 62226"
+                ]
+            },
+            "phone": "+16182350770",
+            "display_phone": "(618) 235-0770",
+            "distance": 27305.11788417807
+        },
+        {
+            "id": "kiHqK6rB1In1O6NirsG2_g",
+            "alias": "steak-n-shake-fairview-heights",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x9vn_kCaddnFVEMgv18EXA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-fairview-heights?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.5927018,
+                "longitude": -89.9891586
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "10860 Lincoln Trl",
+                "address2": "",
+                "address3": "",
+                "city": "Fairview Heights",
+                "zip_code": "62208",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "10860 Lincoln Trl",
+                    "Fairview Heights, IL 62208"
+                ]
+            },
+            "phone": "+16183942520",
+            "display_phone": "(618) 394-2520",
+            "distance": 29039.133568212426
+        },
+        {
+            "id": "Plcm1WRM4RWJg5Qo0jU4dg",
+            "alias": "steak-n-shake-saint-peters-3",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/msZQyXM6pgy2v3owl338Vw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-peters-3?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 33,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.750306,
+                "longitude": -90.58851
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "1460 Jungerman Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Peters",
+                "zip_code": "63376",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1460 Jungerman Rd",
+                    "Saint Peters, MO 63376"
+                ]
+            },
+            "phone": "+16364413351",
+            "display_phone": "(636) 441-3351",
+            "distance": 27794.64031572241
+        },
+        {
+            "id": "p96NpqkwTIWpT5TNrzVrjg",
+            "alias": "steak-n-shake-ellisville-2",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ur8hzfOgqghyoQhXLk3ocw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-ellisville-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 36,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.59166,
+                "longitude": -90.59394
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "16051 Manchester",
+                "address2": "",
+                "address3": "",
+                "city": "Ellisville",
+                "zip_code": "63011",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "16051 Manchester",
+                    "Ellisville, MO 63011"
+                ]
+            },
+            "phone": "+16363910550",
+            "display_phone": "(636) 391-0550",
+            "distance": 23804.431844725033
+        },
+        {
+            "id": "REJIo5tSCx85ed7ReVHElw",
+            "alias": "courtesy-diner-saint-louis-4",
+            "name": "Courtesy Diner",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DGDM2moy_x8tWRJoD52XdA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/courtesy-diner-saint-louis-4?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 57,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.567272,
+                "longitude": -90.339645
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8000 S Laclede Station Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63123",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "8000 S Laclede Station Rd",
+                    "Saint Louis, MO 63123"
+                ]
+            },
+            "phone": "+13145539900",
+            "display_phone": "(314) 553-9900",
+            "distance": 5263.44803600898
+        },
+        {
+            "id": "CCTA2CxuTY_MObGx71o2gQ",
+            "alias": "steak-n-shake-saint-louis-26",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bioLt-iZJxQZ43wjFhAPcw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-louis-26?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.7688122,
+                "longitude": -90.2647415
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "10911 New Halls Ferry Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63136",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "10911 New Halls Ferry Rd",
+                    "Saint Louis, MO 63136"
+                ]
+            },
+            "phone": "+13142661234",
+            "display_phone": "(314) 266-1234",
+            "distance": 18073.099017805038
+        },
+        {
+            "id": "GuMyw0EFJD0UgGgwxjlOCA",
+            "alias": "freddys-frozen-custard-and-steakburgers-st-peters",
+            "name": "Freddy's Frozen Custard & Steakburgers",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-WpGp5K0O6V4suhlMd3ZwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/freddys-frozen-custard-and-steakburgers-st-peters?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 47,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.754897,
+                "longitude": -90.586656
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1365 Jungermann Rd",
+                "address2": "",
+                "address3": "",
+                "city": "St. Peters",
+                "zip_code": "63376",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1365 Jungermann Rd",
+                    "St. Peters, MO 63376"
+                ]
+            },
+            "phone": "+16364472496",
+            "display_phone": "(636) 447-2496",
+            "distance": 27953.14452677614
+        },
+        {
+            "id": "zXXp5Vg1qg8ZzNjTLDQxHg",
+            "alias": "five-guys-saint-louis-3",
+            "name": "Five Guys",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_jHLPnmrVHfi6MGS_z7XXQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/five-guys-saint-louis-3?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.640378,
+                "longitude": -90.2478554
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4183 Lindell Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63108",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4183 Lindell Blvd",
+                    "Saint Louis, MO 63108"
+                ]
+            },
+            "phone": "+13143711589",
+            "display_phone": "(314) 371-1589",
+            "distance": 7102.159825107223
+        },
+        {
+            "id": "DM1t2FNwVBhbOOTzOMIWag",
+            "alias": "steak-n-shake-hazelwood",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6C7vPCSwjpiiQjDQsBE7Bw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-hazelwood?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 31,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.78194,
+                "longitude": -90.38369
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6050 Howdershell",
+                "address2": "",
+                "address3": "",
+                "city": "Hazelwood",
+                "zip_code": "63042",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "6050 Howdershell",
+                    "Hazelwood, MO 63042"
+                ]
+            },
+            "phone": "+13142661184",
+            "display_phone": "(314) 266-1184",
+            "distance": 19606.4088406889
+        },
+        {
+            "id": "P1W_Tmz-JXx2aOB3TSmGVw",
+            "alias": "culvers-saint-louis-2",
+            "name": "Culver's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/c0UB2N48R_O6uperc9pCDw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/culvers-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.567325592041,
+                "longitude": -90.3953094482422
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "10200 Big Bend Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63122",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "10200 Big Bend Rd",
+                    "Saint Louis, MO 63122"
+                ]
+            },
+            "phone": "+13148211800",
+            "display_phone": "(314) 821-1800",
+            "distance": 8163.131417083535
+        },
+        {
+            "id": "8ddsrCbKR8LmoYqmcCneMw",
+            "alias": "steak-n-shake-florissant-4",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DTkoW5RbP1hh1tSFeoGYcg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-florissant-4?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.80086,
+                "longitude": -90.3155249
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1955 Hwy 67 N",
+                "address2": null,
+                "address3": "",
+                "city": "Florissant",
+                "zip_code": "63033",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1955 Hwy 67 N",
+                    "Florissant, MO 63033"
+                ]
+            },
+            "phone": "+13148399016",
+            "display_phone": "(314) 839-9016",
+            "distance": 20962.11698518996
+        },
+        {
+            "id": "u4M4SxqehnyMI5vs9HaW7Q",
+            "alias": "the-dam-saint-louis",
+            "name": "The Dam",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cArZ1n7PmYjzU3jzl87sTA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-dam-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 195,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "fooddeliveryservices",
+                    "title": "Food Delivery Services"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6020012,
+                "longitude": -90.2618713
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3173 Morganford Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63116",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3173 Morganford Rd",
+                    "Saint Louis, MO 63116"
+                ]
+            },
+            "phone": "+13147713173",
+            "display_phone": "(314) 771-3173",
+            "distance": 5295.812452631396
+        },
+        {
+            "id": "cYo_azdwJuZHV8tzHhrMig",
+            "alias": "steak-n-shake-st-peters",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eP9qZXMqJxTO9-lApiPHtg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-st-peters?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.790673,
+                "longitude": -90.566305
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3909 Mexico Rd",
+                "address2": "",
+                "address3": "",
+                "city": "St. Peters",
+                "zip_code": "63376",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3909 Mexico Rd",
+                    "St. Peters, MO 63376"
+                ]
+            },
+            "phone": "+16364421016",
+            "display_phone": "(636) 442-1016",
+            "distance": 29060.469274339106
+        },
+        {
+            "id": "xwINKhwJ1Ns_Raw5SlWB8g",
+            "alias": "five-guys-saint-louis-2",
+            "name": "Five Guys",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cd0wHRibI8BJZFhVzURHsQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/five-guys-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.6345037077841,
+                "longitude": -90.3479338306885
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1417 St Louis Galleria St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63117",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1417 St Louis Galleria St",
+                    "Saint Louis, MO 63117"
+                ]
+            },
+            "phone": "+13147211001",
+            "display_phone": "(314) 721-1001",
+            "distance": 3372.7456106570303
+        },
+        {
+            "id": "HyFaFDR7sWRvtFqsYMEbyg",
+            "alias": "steak-n-shake-wood-river",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zGW7znpWWFm2pI4fnLwiZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-wood-river?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.8678083,
+                "longitude": -90.0659667
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1870 Memorial Ln",
+                "address2": null,
+                "address3": null,
+                "city": "Wood River",
+                "zip_code": "62095",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1870 Memorial Ln",
+                    "Wood River, IL 62095"
+                ]
+            },
+            "phone": "+16182590708",
+            "display_phone": "(618) 259-0708",
+            "distance": 36016.44728539997
+        },
+        {
+            "id": "NfO2T8gevtitTb7sDojTiA",
+            "alias": "freddys-frozen-custard-and-steakburgers-cottleville",
+            "name": "Freddy's Frozen Custard & Steakburgers",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YVhXakxUUC0_1pV_ssOZWw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/freddys-frozen-custard-and-steakburgers-cottleville?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.7477677,
+                "longitude": -90.6352097
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6031 Mid Rivers Mall Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Cottleville",
+                "zip_code": "63304",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "6031 Mid Rivers Mall Dr",
+                    "Cottleville, MO 63304"
+                ]
+            },
+            "phone": "+16369220961",
+            "display_phone": "(636) 922-0961",
+            "distance": 31125.93270661069
+        },
+        {
+            "id": "d3OyW6UXr3_wgyTBZ6A0xQ",
+            "alias": "chili-macs-diner-saint-louis-2",
+            "name": "Chili Mac's Diner",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Vxujj5YXgTx2T9kaHLH-nA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chili-macs-diner-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 101,
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6269956082106,
+                "longitude": -90.1896221190691
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "510 Pine St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63101",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "510 Pine St",
+                    "Saint Louis, MO 63101"
+                ]
+            },
+            "phone": "+13144219040",
+            "display_phone": "(314) 421-9040",
+            "distance": 11530.718049534773
+        },
+        {
+            "id": "cvjQUc07UCm184F4oC14Bg",
+            "alias": "freddys-frozen-custard-and-steakburgers-creve-coeur",
+            "name": "Freddy's Frozen Custard & Steakburgers",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TfXXvMDz9v2bd8Qy3_iEPA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/freddys-frozen-custard-and-steakburgers-creve-coeur?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.6733468178619,
+                "longitude": -90.4104542334741
+            },
+            "transactions": [],
+            "location": {
+                "address1": "10457 Olive Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Creve Coeur",
+                "zip_code": "63141",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "10457 Olive Blvd",
+                    "Creve Coeur, MO 63141"
+                ]
+            },
+            "phone": "+13148017628",
+            "display_phone": "(314) 801-7628",
+            "distance": 10357.42289322784
+        }
+    ],
+    "total": 344,
+    "region": {
+        "center": {
+            "longitude": -90.32135009765625,
+            "latitude": 38.61239775768799
+        }
+    }
+}

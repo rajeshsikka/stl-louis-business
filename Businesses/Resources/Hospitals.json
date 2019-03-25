@@ -1,0 +1,1994 @@
+{
+    "businesses": [
+        {
+            "id": "mOhnrcXkmbSKmaUZVmhY4A",
+            "alias": "ssm-health-st-marys-hospital-saint-louis",
+            "name": "SSM Health St Mary's Hospital",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6Y8g_vcquQXAPGOXAwZmCg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ssm-health-st-marys-hospital-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 27,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.632681,
+                "longitude": -90.3108929
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6420 Clayton Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63117",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "6420 Clayton Rd",
+                    "Saint Louis, MO 63117"
+                ]
+            },
+            "phone": "+13147688000",
+            "display_phone": "(314) 768-8000",
+            "distance": 2431.4770870393377
+        },
+        {
+            "id": "WCa5jq5LG-wuwpUQVsktTA",
+            "alias": "st-anthonys-medical-center-saint-louis",
+            "name": "St Anthony's Medical Center",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vUytPKCthSRNyfnCkU7S5g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-anthonys-medical-center-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.5066059,
+                "longitude": -90.3802465
+            },
+            "transactions": [],
+            "location": {
+                "address1": "10010 Kennerly Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63128",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "10010 Kennerly Rd",
+                    "Saint Louis, MO 63128"
+                ]
+            },
+            "phone": "+13145251000",
+            "display_phone": "(314) 525-1000",
+            "distance": 12829.852396455008
+        },
+        {
+            "id": "geubwZMyywcN-HfiLoaOCQ",
+            "alias": "ssm-health-saint-louis-university-hospital-saint-louis",
+            "name": "SSM Health Saint Louis University Hospital",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zZOCVQCsPhCO0pVTqVJeAw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ssm-health-saint-louis-university-hospital-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 25,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.622918,
+                "longitude": -90.238776
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3635 Vista Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63110",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3635 Vista Ave",
+                    "Saint Louis, MO 63110"
+                ]
+            },
+            "phone": "+13145778000",
+            "display_phone": "(314) 577-8000",
+            "distance": 7268.754933996462
+        },
+        {
+            "id": "aygujwiQDKbDSNsMkWg5vA",
+            "alias": "st-louis-childrens-hospital-saint-louis",
+            "name": "St Louis Children's Hospital",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O7fBvfsdp7iegynpMCnd2g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-louis-childrens-hospital-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.6377499,
+                "longitude": -90.26491
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1 Childrens Pl",
+                "address2": "",
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63110",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1 Childrens Pl",
+                    "Saint Louis, MO 63110"
+                ]
+            },
+            "phone": "+13144546000",
+            "display_phone": "(314) 454-6000",
+            "distance": 5701.40084208183
+        },
+        {
+            "id": "14Zqh4PPwymE6VBtdLdupQ",
+            "alias": "des-peres-hospital-saint-louis-2",
+            "name": "Des Peres Hospital",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Plahooq2LbwN3rtsw6Uugw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/des-peres-hospital-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.5842146624576,
+                "longitude": -90.451822239685
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2345 Dougherty Ferry Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63122",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2345 Dougherty Ferry Rd",
+                    "Saint Louis, MO 63122"
+                ]
+            },
+            "phone": "+13149669100",
+            "display_phone": "(314) 966-9100",
+            "distance": 11763.534133213765
+        },
+        {
+            "id": "wOTgc9SPrAtFS1qagWQyNw",
+            "alias": "missouri-baptist-medical-center-saint-louis",
+            "name": "Missouri Baptist Medical Center",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CQ7bWico44rRdgz13sct2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/missouri-baptist-medical-center-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.635729,
+                "longitude": -90.446915
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3015 N Ballas Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63131",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3015 N Ballas Rd",
+                    "Saint Louis, MO 63131"
+                ]
+            },
+            "phone": "+13149965000",
+            "display_phone": "(314) 996-5000",
+            "distance": 11191.767562430512
+        },
+        {
+            "id": "jlRU93QkzdN5PEmF8p1w0w",
+            "alias": "christian-hospital-saint-louis-2",
+            "name": "Christian Hospital",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FWjjHNhE3UC0pvyep3UWvg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/christian-hospital-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.7764797908463,
+                "longitude": -90.2402801969097
+            },
+            "transactions": [],
+            "location": {
+                "address1": "11133 Dunn Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63136",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "11133 Dunn Rd",
+                    "Saint Louis, MO 63136"
+                ]
+            },
+            "phone": "+13146535000",
+            "display_phone": "(314) 653-5000",
+            "distance": 19554.657172594292
+        },
+        {
+            "id": "dzn_4co1r9FTsFjYij_RNQ",
+            "alias": "total-access-urgent-care-saint-louis-7",
+            "name": "Total Access Urgent Care",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/muBkimwsaftug3lNaTtb7A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/total-access-urgent-care-saint-louis-7?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 139,
+            "categories": [
+                {
+                    "alias": "urgent_care",
+                    "title": "Urgent Care"
+                },
+                {
+                    "alias": "diagnosticimaging",
+                    "title": "Diagnostic Imaging"
+                },
+                {
+                    "alias": "laboratorytesting",
+                    "title": "Laboratory Testing"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.5883733,
+                "longitude": -90.3095236
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6900 Chippewa St",
+                "address2": null,
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63109",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "6900 Chippewa St",
+                    "Saint Louis, MO 63109"
+                ]
+            },
+            "phone": "+13148999344",
+            "display_phone": "(314) 899-9344",
+            "distance": 2862.267903929762
+        },
+        {
+            "id": "ECcCnoRPRhhtOtsBtjwvUg",
+            "alias": "st-johns-mercy-medical-center-saint-louis-2",
+            "name": "St John's Mercy Medical Center",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-johns-mercy-medical-center-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.67813,
+                "longitude": -90.47027
+            },
+            "transactions": [],
+            "location": {
+                "address1": "12680 Olive Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63141",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "12680 Olive Blvd",
+                    "Saint Louis, MO 63141"
+                ]
+            },
+            "phone": "+13142518989",
+            "display_phone": "(314) 251-8989",
+            "distance": 14866.986332103534
+        },
+        {
+            "id": "bEJleDEY9dJgeBwpfoeVoA",
+            "alias": "shriners-hospitals-for-children-saint-louis-2",
+            "name": "Shriners Hospitals for Children",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GGAQydd2eLLEatShtDi3iw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shriners-hospitals-for-children-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                },
+                {
+                    "alias": "physicians",
+                    "title": "Doctors"
+                },
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.6338748288103,
+                "longitude": -90.2576308638406
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2001 S. Lindbergh Boulevard",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63131",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2001 S. Lindbergh Boulevard",
+                    "Saint Louis, MO 63131"
+                ]
+            },
+            "phone": "+13144323600",
+            "display_phone": "(314) 432-3600",
+            "distance": 6028.660778157084
+        },
+        {
+            "id": "sxGcwLiQrRSgxQxQwuutZg",
+            "alias": "mercy-hospital-st-louis-saint-louis",
+            "name": "Mercy Hospital St Louis",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aMjS3RVUJj9_tqdCOKoXCA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mercy-hospital-st-louis-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "sportsmed",
+                    "title": "Sports Medicine"
+                },
+                {
+                    "alias": "skincare",
+                    "title": "Skin Care"
+                },
+                {
+                    "alias": "rehabilitation_center",
+                    "title": "Rehabilitation Center"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.646518,
+                "longitude": -90.4435249
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "615 S New Ballas Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63141",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "615 S New Ballas Rd",
+                    "Saint Louis, MO 63141"
+                ]
+            },
+            "phone": "+13142516000",
+            "display_phone": "(314) 251-6000",
+            "distance": 11455.889380389137
+        },
+        {
+            "id": "-1HV4mcg_qK_crhySfBycQ",
+            "alias": "ssm-health-cardinal-glennon-childrens-hospital-saint-louis",
+            "name": "SSM Health Cardinal Glennon Children's Hospital",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EbyCFUkwVNe95XVY2L1pWw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ssm-health-cardinal-glennon-childrens-hospital-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.62162,
+                "longitude": -90.239124
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1465 S Grand Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63104",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1465 S Grand Blvd",
+                    "Saint Louis, MO 63104"
+                ]
+            },
+            "phone": "+13145775600",
+            "display_phone": "(314) 577-5600",
+            "distance": 7217.062601515238
+        },
+        {
+            "id": "WOOAFuMn1ivxPp8wnFFVFQ",
+            "alias": "barnes-jewish-west-county-hospital-saint-louis",
+            "name": "Barnes-Jewish West County Hospital",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dGx6J-qMXwC2mj1mb0aGHg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/barnes-jewish-west-county-hospital-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.675305,
+                "longitude": -90.467437
+            },
+            "transactions": [],
+            "location": {
+                "address1": "12634 Olive Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63141",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "12634 Olive Blvd",
+                    "Saint Louis, MO 63141"
+                ]
+            },
+            "phone": "+13149968000",
+            "display_phone": "(314) 996-8000",
+            "distance": 14535.753502581865
+        },
+        {
+            "id": "UPoqUwBkQBYekZE1DklAug",
+            "alias": "the-rehabilitation-institute-of-st-louis-saint-louis",
+            "name": "The Rehabilitation Institute of St. Louis",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5MTrVRLdPEpEMonJYR6mAg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-rehabilitation-institute-of-st-louis-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                },
+                {
+                    "alias": "physicaltherapy",
+                    "title": "Physical Therapy"
+                },
+                {
+                    "alias": "occupationaltherapy",
+                    "title": "Occupational Therapy"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.6367755,
+                "longitude": -90.2579346
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4455 Duncan Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63110",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4455 Duncan Ave",
+                    "Saint Louis, MO 63110"
+                ]
+            },
+            "phone": "+13146583800",
+            "display_phone": "(314) 658-3800",
+            "distance": 6166.46696439666
+        },
+        {
+            "id": "PPo-roabp_emjI1ipCLbXQ",
+            "alias": "st-lukes-hospital-chesterfield",
+            "name": "St Luke's Hospital",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/x_mI6tc9P8FzqITzO16L2Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-lukes-hospital-chesterfield?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 23,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6514999692026,
+                "longitude": -90.5028712749481
+            },
+            "transactions": [],
+            "location": {
+                "address1": "232 S Woods Mill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Chesterfield",
+                "zip_code": "63017",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "232 S Woods Mill Rd",
+                    "Chesterfield, MO 63017"
+                ]
+            },
+            "phone": "+13144341500",
+            "display_phone": "(314) 434-1500",
+            "distance": 16355.855492555324
+        },
+        {
+            "id": "-cUCCo0K-29bQuMRnQoWZg",
+            "alias": "ssm-health-st-clare-hospital-fenton",
+            "name": "SSM Health St Clare Hospital",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5541qQha2Hpgg-tZwyEEQw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ssm-health-st-clare-hospital-fenton?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "diagnosticimaging",
+                    "title": "Diagnostic Imaging"
+                },
+                {
+                    "alias": "pediatricians",
+                    "title": "Pediatricians"
+                },
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.52785,
+                "longitude": -90.476224
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1015 Bowles Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Fenton",
+                "zip_code": "63026",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1015 Bowles Ave",
+                    "Fenton, MO 63026"
+                ]
+            },
+            "phone": "+16364962000",
+            "display_phone": "(636) 496-2000",
+            "distance": 16421.666551122205
+        },
+        {
+            "id": "KqZoxymAgU26hGxnObIxvA",
+            "alias": "barnes-jewish-hospital-breast-health-center-st-louis",
+            "name": "Barnes-Jewish Hospital Breast Health Center",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/barnes-jewish-hospital-breast-health-center-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.6381803168719,
+                "longitude": -90.2632108647242
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4921 Parkview Pl",
+                "address2": "Fifth Floor, Suites D and F",
+                "address3": null,
+                "city": "St. Louis",
+                "zip_code": "63110",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4921 Parkview Pl",
+                    "Fifth Floor, Suites D and F",
+                    "St. Louis, MO 63110"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 5644.857180573965
+        },
+        {
+            "id": "gN1V-PIgLsAAddRq2Xd8Sw",
+            "alias": "cardinal-glennon-childrens-hospital-saint-louis-2",
+            "name": "Cardinal Glennon Children's Hospital",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cardinal-glennon-childrens-hospital-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.5726258903742,
+                "longitude": -90.4253306239843
+            },
+            "transactions": [],
+            "location": {
+                "address1": "525 Couch Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63122",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "525 Couch Ave",
+                    "Saint Louis, MO 63122"
+                ]
+            },
+            "phone": "+13149661500",
+            "display_phone": "(314) 966-1500",
+            "distance": 9961.52588903412
+        },
+        {
+            "id": "8JUHkT-FWXWEs8HOUx3wfw",
+            "alias": "st-lukes-urgent-care-ladue-saint-louis-2",
+            "name": "St. Luke's Urgent Care - Ladue",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DDGXn-bhLz2J95UF21aNtg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-lukes-urgent-care-ladue-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "urgent_care",
+                    "title": "Urgent Care"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.6533735,
+                "longitude": -90.3511094
+            },
+            "transactions": [],
+            "location": {
+                "address1": "8857 Ladue Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63124",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "8857 Ladue Rd",
+                    "Saint Louis, MO 63124"
+                ]
+            },
+            "phone": "+13145768189",
+            "display_phone": "(314) 576-8189",
+            "distance": 5238.475738815593
+        },
+        {
+            "id": "KYpvo7sRHQjQImaa0ZS27A",
+            "alias": "havenhouse-st-louis-saint-louis-2",
+            "name": "HavenHouse St. Louis",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GwlRYgBKZzbmxlkisX2MXg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/havenhouse-st-louis-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "nonprofit",
+                    "title": "Community Service/Non-Profit"
+                },
+                {
+                    "alias": "guesthouses",
+                    "title": "Guest Houses"
+                },
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.6790807545185,
+                "longitude": -90.4707484692335
+            },
+            "transactions": [],
+            "location": {
+                "address1": "12685 Olive Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63141",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "12685 Olive Blvd",
+                    "Saint Louis, MO 63141"
+                ]
+            },
+            "phone": "+13144345858",
+            "display_phone": "(314) 434-5858",
+            "distance": 14928.966078752066
+        },
+        {
+            "id": "lLp6R467DK__qXcdURPkhw",
+            "alias": "total-access-urgent-care-saint-louis",
+            "name": "Total Access Urgent Care",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_zg0_EHE-8R7N-NoNjNCRA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/total-access-urgent-care-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 275,
+            "categories": [
+                {
+                    "alias": "urgent_care",
+                    "title": "Urgent Care"
+                },
+                {
+                    "alias": "diagnosticimaging",
+                    "title": "Diagnostic Imaging"
+                },
+                {
+                    "alias": "laboratorytesting",
+                    "title": "Laboratory Testing"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.6092304,
+                "longitude": -90.3647897
+            },
+            "transactions": [],
+            "location": {
+                "address1": "9556 Manchester Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63119",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "9556 Manchester Rd",
+                    "Saint Louis, MO 63119"
+                ]
+            },
+            "phone": "+13143735740",
+            "display_phone": "(314) 373-5740",
+            "distance": 3790.7729622375596
+        },
+        {
+            "id": "-sy3CXBndstJicruXVVhxw",
+            "alias": "barnes-jewish-hospital-college-saint-louis-2",
+            "name": "Barnes-Jewish Hospital College",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EDTrouBOcKy6d1j0Ts6KzA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/barnes-jewish-hospital-college-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "specialtyschools",
+                    "title": "Specialty Schools"
+                },
+                {
+                    "alias": "collegeuniv",
+                    "title": "Colleges & Universities"
+                },
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.6370424,
+                "longitude": -90.2592471
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4483 Duncan Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63110",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4483 Duncan Ave",
+                    "Saint Louis, MO 63110"
+                ]
+            },
+            "phone": "+13144547055",
+            "display_phone": "(314) 454-7055",
+            "distance": 6110.319751150791
+        },
+        {
+            "id": "0kaVzO8FCX0BhOJp1QYnEg",
+            "alias": "downtown-urgent-care-saint-louis",
+            "name": "Downtown Urgent Care",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1HLBebcNLORV_Ndj9-nP0A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/downtown-urgent-care-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "urgent_care",
+                    "title": "Urgent Care"
+                },
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6289194226265,
+                "longitude": -90.1938264816999
+            },
+            "transactions": [],
+            "location": {
+                "address1": "916 Olive St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63101",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "916 Olive St",
+                    "Saint Louis, MO 63101"
+                ]
+            },
+            "phone": "+13144369300",
+            "display_phone": "(314) 436-9300",
+            "distance": 11185.868790163517
+        },
+        {
+            "id": "kmFK1OSq9sLF9CLAXrabxQ",
+            "alias": "st-louis-va-health-care-system-jefferson-barracks-division-saint-louis",
+            "name": "St. Louis VA Health Care System - Jefferson Barracks Division",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oA8TtQ4ysCHUK7C4LAD7jw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-louis-va-health-care-system-jefferson-barracks-division-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.4936836817416,
+                "longitude": -90.2843775227666
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1 Jefferson Barracks Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63125",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1 Jefferson Barracks Dr",
+                    "Saint Louis, MO 63125"
+                ]
+            },
+            "phone": "+13146524100",
+            "display_phone": "(314) 652-4100",
+            "distance": 13586.273295784824
+        },
+        {
+            "id": "cVC3xVNX9Ciya1uZGCYYKw",
+            "alias": "st-johns-mercy-diagnostic-testing-center-saint-louis",
+            "name": "St John's Mercy Diagnostic Testing Center",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vLFQnIZcHNbEqoREAdd5xw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-johns-mercy-diagnostic-testing-center-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.5112667,
+                "longitude": -90.3732779
+            },
+            "transactions": [],
+            "location": {
+                "address1": "12348 Old Tesson Ferry Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63126",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "12348 Old Tesson Ferry Rd",
+                    "Saint Louis, MO 63126"
+                ]
+            },
+            "phone": "+13148420884",
+            "display_phone": "(314) 842-0884",
+            "distance": 12133.770558082071
+        },
+        {
+            "id": "MmW_qNKIfw_4G4X9h434QA",
+            "alias": "total-access-urgent-care-saint-louis-5",
+            "name": "Total Access Urgent Care",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I3IglVpiFyyjDsuRu3c85w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/total-access-urgent-care-saint-louis-5?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 65,
+            "categories": [
+                {
+                    "alias": "urgent_care",
+                    "title": "Urgent Care"
+                },
+                {
+                    "alias": "diagnosticimaging",
+                    "title": "Diagnostic Imaging"
+                },
+                {
+                    "alias": "laboratorytesting",
+                    "title": "Laboratory Testing"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.50474,
+                "longitude": -90.37825
+            },
+            "transactions": [],
+            "location": {
+                "address1": "12616 Lamplighter Square",
+                "address2": null,
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63128",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "12616 Lamplighter Square",
+                    "Saint Louis, MO 63128"
+                ]
+            },
+            "phone": "+13146699193",
+            "display_phone": "(314) 669-9193",
+            "distance": 12966.397022002811
+        },
+        {
+            "id": "WAID5MCB3z0Fug9hfYEDtA",
+            "alias": "infertility-center-of-saint-louis-saint-louis",
+            "name": "Infertility Center of Saint Louis",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-P-kW4sdVZvThUen3gTTPg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/infertility-center-of-saint-louis-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "obgyn",
+                    "title": "Obstetricians & Gynecologists"
+                },
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                },
+                {
+                    "alias": "fertility",
+                    "title": "Fertility"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.6516873,
+                "longitude": -90.5067611
+            },
+            "transactions": [],
+            "location": {
+                "address1": "224 S Woods Mill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63017",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "224 S Woods Mill Rd",
+                    "Saint Louis, MO 63017"
+                ]
+            },
+            "phone": "+13145761400",
+            "display_phone": "(314) 576-1400",
+            "distance": 16356.70011521846
+        },
+        {
+            "id": "klAYzIPLsrDT6wzTHcmndQ",
+            "alias": "bjc-healthcare-saint-louis",
+            "name": "BJC HealthCare",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O3QLE4ZPRpg9gCFPywCgzQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bjc-healthcare-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 38.627522,
+                "longitude": -90.19841
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4901 Forest Park Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63108",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4901 Forest Park Ave",
+                    "Saint Louis, MO 63108"
+                ]
+            },
+            "phone": "+13142862000",
+            "display_phone": "(314) 286-2000",
+            "distance": 10812.23628093833
+        },
+        {
+            "id": "_KgJJx8GUZKdo1Jtb44hcw",
+            "alias": "southampton-healthcare-saint-louis",
+            "name": "Southampton Healthcare",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ECq2ZOverYH6MIR9qB7D8A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/southampton-healthcare-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.61386,
+                "longitude": -90.28671
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2340 Hampton Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63139",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2340 Hampton Ave",
+                    "Saint Louis, MO 63139"
+                ]
+            },
+            "phone": "+13146472200",
+            "display_phone": "(314) 647-2200",
+            "distance": 2998.702456622038
+        },
+        {
+            "id": "wzy8I8vckDx0ps7ESMvi9g",
+            "alias": "missouri-baptist-health-care-saint-louis",
+            "name": "Missouri Baptist Health Care",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yVvDtuyxhOYpYp1yhVoCzQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/missouri-baptist-health-care-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "physicians",
+                    "title": "Doctors"
+                },
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.54895,
+                "longitude": -90.40337
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3844 S Lindbergh Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63127",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3844 S Lindbergh Blvd",
+                    "Saint Louis, MO 63127"
+                ]
+            },
+            "phone": "+13145250500",
+            "display_phone": "(314) 525-0500",
+            "distance": 10054.603250981696
+        },
+        {
+            "id": "5eBa9OoxApM8T59Aat7wHQ",
+            "alias": "ssm-depaul-health-hospital-bridgeton",
+            "name": "SSM DePaul Health Hospital",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FQERHCNTiA8EqM_aTbbTGg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ssm-depaul-health-hospital-bridgeton?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 23,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.7491794,
+                "longitude": -90.4343213
+            },
+            "transactions": [],
+            "location": {
+                "address1": "12303 De Paul Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Bridgeton",
+                "zip_code": "63044",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "12303 De Paul Dr",
+                    "Bridgeton, MO 63044"
+                ]
+            },
+            "phone": "+13143446000",
+            "display_phone": "(314) 344-6000",
+            "distance": 18207.459012033632
+        },
+        {
+            "id": "OhkbHkHC2hJ0VQHrTmE3cw",
+            "alias": "concierge-health-center-saint-louis",
+            "name": "Concierge Health Center",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-jX5tALV9ZIhAnFXIT45Cw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/concierge-health-center-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "urgent_care",
+                    "title": "Urgent Care"
+                },
+                {
+                    "alias": "massage_therapy",
+                    "title": "Massage Therapy"
+                },
+                {
+                    "alias": "nutritionists",
+                    "title": "Nutritionists"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.590701682997,
+                "longitude": -90.3267720837157
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4704 Shrewsbury Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63119",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4704 Shrewsbury Ave",
+                    "Saint Louis, MO 63119"
+                ]
+            },
+            "phone": "+13148027117",
+            "display_phone": "(314) 802-7117",
+            "distance": 2458.070172587151
+        },
+        {
+            "id": "rFURjqfOVPM4mlVJHFPhHQ",
+            "alias": "total-access-urgent-care-sunset-hills",
+            "name": "Total Access Urgent Care",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/47C97MeBAhe2jcONvWIHaw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/total-access-urgent-care-sunset-hills?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "urgent_care",
+                    "title": "Urgent Care"
+                },
+                {
+                    "alias": "diagnosticimaging",
+                    "title": "Diagnostic Imaging"
+                },
+                {
+                    "alias": "laboratorytesting",
+                    "title": "Laboratory Testing"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.54989,
+                "longitude": -90.4057799
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3802 S Lindbergh Blvd",
+                "address2": "Ste 101-102",
+                "address3": null,
+                "city": "Sunset Hills",
+                "zip_code": "63127",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3802 S Lindbergh Blvd",
+                    "Ste 101-102",
+                    "Sunset Hills, MO 63127"
+                ]
+            },
+            "phone": "+13147562041",
+            "display_phone": "(314) 756-2041",
+            "distance": 10122.968156378516
+        },
+        {
+            "id": "mdG-iX_8YIqYNEfAxbqZKw",
+            "alias": "ssm-health-saint-louis",
+            "name": "SSM Health",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QPKmrEeQ8tDI7fgMxmwPfw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ssm-health-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 38.6776112,
+                "longitude": -90.4018931
+            },
+            "transactions": [],
+            "location": {
+                "address1": "10101 Woodfield Ln",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63132",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "10101 Woodfield Ln",
+                    "Saint Louis, MO 63132"
+                ]
+            },
+            "phone": "+13149947800",
+            "display_phone": "(314) 994-7800",
+            "distance": 10075.268631418208
+        },
+        {
+            "id": "hh4cUfbIqlMkvSSpdYCJwQ",
+            "alias": "mercy-urgent-care-saint-louis",
+            "name": "Mercy Urgent Care",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/R-jjL3PDxfwrkgRZ4Y49Nw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mercy-urgent-care-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "urgent_care",
+                    "title": "Urgent Care"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.5104,
+                "longitude": -90.37197
+            },
+            "transactions": [],
+            "location": {
+                "address1": "12348 Old Tesson Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63128",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "12348 Old Tesson Rd",
+                    "Saint Louis, MO 63128"
+                ]
+            },
+            "phone": "+13142722014",
+            "display_phone": "(314) 272-2014",
+            "distance": 12134.687688055457
+        },
+        {
+            "id": "aybQr9pMGG4U2XpI6dCS2w",
+            "alias": "st-louis-hernia-center-st-louis",
+            "name": "St. Louis Hernia Center",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4xqsZ1uDKKDbc84UXB_axQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-louis-hernia-center-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.6370565725543,
+                "longitude": -90.3441917896271
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1034 S Brentwood Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63117",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1034 S Brentwood Blvd",
+                    "St. Louis, MO 63117"
+                ]
+            },
+            "phone": "+13146442422",
+            "display_phone": "(314) 644-2422",
+            "distance": 3384.6073691785778
+        },
+        {
+            "id": "pmoDHODa1S4UBKFICECHAw",
+            "alias": "st-alexius-hospital-st-louis-2",
+            "name": "St. Alexius Hospital",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/c32C0_uw-bXkj5xm2NxokQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-alexius-hospital-st-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.5834869,
+                "longitude": -90.227666
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3933 S Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63118",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3933 S Broadway",
+                    "St. Louis, MO 63118"
+                ]
+            },
+            "phone": "+13148657000",
+            "display_phone": "(314) 865-7000",
+            "distance": 8670.91806333003
+        },
+        {
+            "id": "ov_d7S7XJp_cWTuY2h3-VQ",
+            "alias": "total-access-urgent-care-saint-louis-9",
+            "name": "Total Access Urgent Care",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/j1fs9wgtmmhqBPAqRxC7Mg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/total-access-urgent-care-saint-louis-9?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "urgent_care",
+                    "title": "Urgent Care"
+                },
+                {
+                    "alias": "diagnosticimaging",
+                    "title": "Diagnostic Imaging"
+                },
+                {
+                    "alias": "laboratorytesting",
+                    "title": "Laboratory Testing"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.6020727,
+                "longitude": -90.242189
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3114 S Grand Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63118",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3114 S Grand Blvd",
+                    "Saint Louis, MO 63118"
+                ]
+            },
+            "phone": "+13146962178",
+            "display_phone": "(314) 696-2178",
+            "distance": 6991.226284168354
+        },
+        {
+            "id": "48nj8yGNAUVD96N3czICCQ",
+            "alias": "forest-park-pediatrics-saint-louis",
+            "name": "Forest Park Pediatrics",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/W6MDKgu7SM51BuhgHgbNTQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/forest-park-pediatrics-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "pediatricians",
+                    "title": "Pediatricians"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.6377372741699,
+                "longitude": -90.2588424682617
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4488 Forest Park Ave",
+                "address2": "Ste 230",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63108",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4488 Forest Park Ave",
+                    "Ste 230",
+                    "Saint Louis, MO 63108"
+                ]
+            },
+            "phone": "+13145357855",
+            "display_phone": "(314) 535-7855",
+            "distance": 6125.972015222973
+        },
+        {
+            "id": "-6EcW5XxgH_ITKYiBjvt0Q",
+            "alias": "chippewa-accident-and-family-care-saint-louis-2",
+            "name": "Chippewa Accident & Family Care",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DCp5Rfdlrcr77uoRGPLGbg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chippewa-accident-and-family-care-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.590518951416,
+                "longitude": -90.3058776855469
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6651 Chippewa St",
+                "address2": "Ste 311",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63109",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "6651 Chippewa St",
+                    "Ste 311",
+                    "Saint Louis, MO 63109"
+                ]
+            },
+            "phone": "+13147520856",
+            "display_phone": "(314) 752-0856",
+            "distance": 2779.631771966642
+        },
+        {
+            "id": "-9_jMKS_-tk8mDd340CjTA",
+            "alias": "our-urgent-care-richmond-heights-richmond-heights-2",
+            "name": "Our Urgent Care",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-IazIF7aP2a12KSq-K4dLw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/our-urgent-care-richmond-heights-richmond-heights-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "urgent_care",
+                    "title": "Urgent Care"
+                },
+                {
+                    "alias": "diagnosticimaging",
+                    "title": "Diagnostic Imaging"
+                },
+                {
+                    "alias": "laboratorytesting",
+                    "title": "Laboratory Testing"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.63069,
+                "longitude": -90.31973
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1201 S Big Bend Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Richmond Heights",
+                "zip_code": "63117",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1201 S Big Bend Blvd",
+                    "Richmond Heights, MO 63117"
+                ]
+            },
+            "phone": "+13146908805",
+            "display_phone": "(314) 690-8805",
+            "distance": 2052.7220399871176
+        },
+        {
+            "id": "hd2XhJK7nr0iYNV_kqvKug",
+            "alias": "lewit-karel-clinic-saint-louis",
+            "name": "Lewit Karel Clinic",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lewit-karel-clinic-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.5649604797363,
+                "longitude": -90.402702331543
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1099 Milwaukee St",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63122",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1099 Milwaukee St",
+                    "Saint Louis, MO 63122"
+                ]
+            },
+            "phone": "+13148221502",
+            "display_phone": "(314) 822-1502",
+            "distance": 8810.938243525094
+        },
+        {
+            "id": "OYeB91KpM3ZPxOtmrkTTeQ",
+            "alias": "memorial-hospital-belleville-2",
+            "name": "Memorial Hospital",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/faTW54AgVkuYcG44R8Jf3g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/memorial-hospital-belleville-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.5502014160156,
+                "longitude": -90.0214462280273
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4500 Memorial Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Belleville",
+                "zip_code": "62226",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "4500 Memorial Dr",
+                    "Belleville, IL 62226"
+                ]
+            },
+            "phone": "+16182337750",
+            "display_phone": "(618) 233-7750",
+            "distance": 26964.972122747822
+        },
+        {
+            "id": "cwHZPg4Bh2WR0PH1OdWRlA",
+            "alias": "total-access-urgent-care-st-louis-4",
+            "name": "Total Access Urgent Care",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jA1VRtohmM60ru-rBmkgqg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/total-access-urgent-care-st-louis-4?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "urgent_care",
+                    "title": "Urgent Care"
+                },
+                {
+                    "alias": "diagnosticimaging",
+                    "title": "Diagnostic Imaging"
+                },
+                {
+                    "alias": "laboratorytesting",
+                    "title": "Laboratory Testing"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.61786,
+                "longitude": -90.287086
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2060 Hampton Ave",
+                "address2": null,
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63139",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2060 Hampton Ave",
+                    "St. Louis, MO 63139"
+                ]
+            },
+            "phone": "+13146962341",
+            "display_phone": "(314) 696-2341",
+            "distance": 3026.8236590394895
+        },
+        {
+            "id": "gzt2uVddtowyvZX39tF6Uw",
+            "alias": "urgent-care-for-kids-saint-louis",
+            "name": "Urgent Care for Kids",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/urgent-care-for-kids-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "urgent_care",
+                    "title": "Urgent Care"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.6352005,
+                "longitude": -90.2481003
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4100 Forest Park Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63108",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4100 Forest Park Ave",
+                    "Saint Louis, MO 63108"
+                ]
+            },
+            "phone": "+13149327333",
+            "display_phone": "(314) 932-7333",
+            "distance": 6918.7223768084505
+        },
+        {
+            "id": "PZYK23Inqo3b8aRYmNmAjA",
+            "alias": "st-elizabeths-hospital-o-fallon-2",
+            "name": "St. Elizabeth's Hospital",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/W-gDXsEfyIMVq_gg84ypig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-elizabeths-hospital-o-fallon-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "hospitals",
+                    "title": "Hospitals"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.5839580648257,
+                "longitude": -89.9323522911741
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1 St Elizabeth's Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "O'Fallon",
+                "zip_code": "62269",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1 St Elizabeth's Blvd",
+                    "O'Fallon, IL 62269"
+                ]
+            },
+            "phone": "+16182342120",
+            "display_phone": "(618) 234-2120",
+            "distance": 33952.7269181375
+        },
+        {
+            "id": "ivPmolTTkTVloLiuaKmX3Q",
+            "alias": "st-louis-surgical-center-saint-louis",
+            "name": "St Louis Surgical Center",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/33YF3YXteqifGM9T3g4eyQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-louis-surgical-center-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.6700325012207,
+                "longitude": -90.4329147338867
+            },
+            "transactions": [],
+            "location": {
+                "address1": "760 Office Pkwy",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63141",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "760 Office Pkwy",
+                    "Saint Louis, MO 63141"
+                ]
+            },
+            "phone": "+13149954700",
+            "display_phone": "(314) 995-4700",
+            "distance": 11626.364014781915
+        },
+        {
+            "id": "KCTG9zBNQBKMtUoEpsO9vA",
+            "alias": "siteman-cancer-center-st-louis",
+            "name": "Siteman Cancer Center",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cl872HxBAjBYiXxJVQqOaw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/siteman-cancer-center-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.6382621,
+                "longitude": -90.2631786
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4921 Parkview Pl",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63110",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4921 Parkview Pl",
+                    "St. Louis, MO 63110"
+                ]
+            },
+            "phone": "+18006003606",
+            "display_phone": "(800) 600-3606",
+            "distance": 5818.596957954071
+        },
+        {
+            "id": "dfLkrTK3bCgJTAsJ6n5RmQ",
+            "alias": "webster-groves-surgery-center-saint-louis",
+            "name": "Webster Groves Surgery Center",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/webster-groves-surgery-center-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.5824253410101,
+                "longitude": -90.3584758937359
+            },
+            "transactions": [],
+            "location": {
+                "address1": "520 S Elm Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63119",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "520 S Elm Ave",
+                    "Saint Louis, MO 63119"
+                ]
+            },
+            "phone": "+13149623464",
+            "display_phone": "(314) 962-3464",
+            "distance": 4628.438648708439
+        },
+        {
+            "id": "7fDF0uzsTO1qD1jSK6Qi6g",
+            "alias": "siteman-cancer-center-south-county-saint-louis",
+            "name": "Siteman Cancer Center-South County",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/siteman-cancer-center-south-county-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "medcenters",
+                    "title": "Medical Centers"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.4824676513672,
+                "longitude": -90.3564147949219
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5225 Midamerica Plz",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63129",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "5225 Midamerica Plz",
+                    "Saint Louis, MO 63129"
+                ]
+            },
+            "phone": "+13142862500",
+            "display_phone": "(314) 286-2500",
+            "distance": 14841.221379022638
+        }
+    ],
+    "total": 237,
+    "region": {
+        "center": {
+            "longitude": -90.32135009765625,
+            "latitude": 38.61239775768799
+        }
+    }
+}

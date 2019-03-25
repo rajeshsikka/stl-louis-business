@@ -1,0 +1,871 @@
+{
+    "businesses": [
+        {
+            "id": "Voe6M8FbJcC6MlNOkf1WJA",
+            "alias": "rallys-drive-thru-saint-louis-5",
+            "name": "Rally's Drive Thru",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/46Xh2ZB1uUa1wpruQIw27g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rallys-drive-thru-saint-louis-5?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.6028711497784,
+                "longitude": -90.2235185354948
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2807 S Jefferson Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63118",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2807 S Jefferson Ave",
+                    "Saint Louis, MO 63118"
+                ]
+            },
+            "phone": "+13147732066",
+            "display_phone": "(314) 773-2066",
+            "distance": 8570.179409894643
+        },
+        {
+            "id": "Dr2doMUrV87DKwvDAdCL1w",
+            "alias": "rallys-drive-thru-saint-louis-7",
+            "name": "Rally's Drive Thru",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rallys-drive-thru-saint-louis-7?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.69108,
+                "longitude": -90.38853
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "10334 Page Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63132",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "10334 Page Ave",
+                    "Saint Louis, MO 63132"
+                ]
+            },
+            "phone": "+13144272445",
+            "display_phone": "(314) 427-2445",
+            "distance": 10503.191348146529
+        },
+        {
+            "id": "pSa9HDI8h60n-EULvAAA_w",
+            "alias": "burger-king-saint-louis-17",
+            "name": "Burger King",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tw9rjt2xOXgYCbs9A-WyJQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-saint-louis-17?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.556979,
+                "longitude": -90.261185
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "932 Loughborough Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63111",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "932 Loughborough Ave",
+                    "Saint Louis, MO 63111"
+                ]
+            },
+            "phone": "+13144571011",
+            "display_phone": "(314) 457-1011",
+            "distance": 8082.1763739351245
+        },
+        {
+            "id": "yEh8qZoW34uoA9xKiXnCow",
+            "alias": "rallys-saint-louis",
+            "name": "Rally's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MsyP8RT1-riVFxK4CXn46g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rallys-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.6393,
+                "longitude": -90.24099
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "305 N Vandeventer Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63108",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "305 N Vandeventer Ave",
+                    "Saint Louis, MO 63108"
+                ]
+            },
+            "phone": "+13145312336",
+            "display_phone": "(314) 531-2336",
+            "distance": 7588.157305997836
+        },
+        {
+            "id": "4y7BlEqWDN_Qvk1j8-mWzA",
+            "alias": "juan-more-tamale-saint-louis",
+            "name": "Juan More Tamale",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kFcqDnG51LYoijbMen_vzA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/juan-more-tamale-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6105590313673,
+                "longitude": -90.2002007514238
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "730 Carroll St",
+                "address2": null,
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63104",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "730 Carroll St",
+                    "Saint Louis, MO 63104"
+                ]
+            },
+            "phone": "+16186048164",
+            "display_phone": "(618) 604-8164",
+            "distance": 10453.85038422099
+        },
+        {
+            "id": "xzCHwiZ2DMq_S3JkhnDf6w",
+            "alias": "panda-express-saint-louis-12",
+            "name": "Panda Express",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bul-oO5eeKJlTbR0ICEmTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/panda-express-saint-louis-12?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.552635,
+                "longitude": -90.407616
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "10722 Sunset Hills Plz",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63127",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "10722 Sunset Hills Plz",
+                    "Saint Louis, MO 63127"
+                ]
+            },
+            "phone": "+13149094829",
+            "display_phone": "(314) 909-4829",
+            "distance": 10019.301737133406
+        },
+        {
+            "id": "VOAWSVd6DX5uVHuvmdFLeA",
+            "alias": "subway-saint-louis-72",
+            "name": "Subway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bOihoEEA67PrwRO1obynVQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-saint-louis-72?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.5780978,
+                "longitude": -90.2308312
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4230 S Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63111",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4230 S Broadway",
+                    "Saint Louis, MO 63111"
+                ]
+            },
+            "phone": "+13143513822",
+            "display_phone": "(314) 351-3822",
+            "distance": 8798.928423988873
+        },
+        {
+            "id": "HUhet8XDKW8aYXwhhroKTA",
+            "alias": "white-castle-saint-louis-24",
+            "name": "White Castle",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3DhxpOvycyMNHdlLo0RDjw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/white-castle-saint-louis-24?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.5962181091309,
+                "longitude": -90.4743881225586
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "13600 Manchester Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63131",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "13600 Manchester Rd",
+                    "Saint Louis, MO 63131"
+                ]
+            },
+            "phone": "+13148212272",
+            "display_phone": "(314) 821-2272",
+            "distance": 13407.877748391997
+        },
+        {
+            "id": "aK6R2akvIK9ijw3FvDy8vw",
+            "alias": "jack-in-the-box-saint-louis-5",
+            "name": "Jack In the Box",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cAjuAINb4qzZtSf5pQQP5Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jack-in-the-box-saint-louis-5?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 27,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.64044,
+                "longitude": -90.24636
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "4111 Lindell Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63190",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4111 Lindell Blvd",
+                    "Saint Louis, MO 63190"
+                ]
+            },
+            "phone": "+13146521649",
+            "display_phone": "(314) 652-1649",
+            "distance": 7216.160390216613
+        },
+        {
+            "id": "Mlh_VH3ZVbxMn9NXYcRRAw",
+            "alias": "lees-famous-recipe-chicken-saint-louis-2",
+            "name": "Lee's Famous Recipe Chicken",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h47ZPuiZusN1saFwwaJbpw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lees-famous-recipe-chicken-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.658821105957,
+                "longitude": -90.2993927001953
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6221 Vernon Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63130",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "6221 Vernon Ave",
+                    "Saint Louis, MO 63130"
+                ]
+            },
+            "phone": "+13147216131",
+            "display_phone": "(314) 721-6131",
+            "distance": 5498.450705686517
+        },
+        {
+            "id": "5tZJaEsvEDowvbAtL8Jfig",
+            "alias": "sonic-drive-in-saint-louis",
+            "name": "Sonic Drive-In",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UqAEWqi-oZ3y3t6mTwAmUQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sonic-drive-in-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 31,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.6025599,
+                "longitude": -90.26911
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3156 S Kingshighway Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63139",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3156 S Kingshighway Blvd",
+                    "Saint Louis, MO 63139"
+                ]
+            },
+            "phone": "+13147728331",
+            "display_phone": "(314) 772-8331",
+            "distance": 4659.466494529673
+        },
+        {
+            "id": "zZ_xsIQfotnHe25MxQyg0g",
+            "alias": "mcdonalds-brentwood-11",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VH2I1oaU9ZYtIs92tk9bIA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-brentwood-11?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.6267,
+                "longitude": -90.335488
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1595 S Hanley",
+                "address2": "",
+                "address3": "",
+                "city": "Brentwood",
+                "zip_code": "63144",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1595 S Hanley",
+                    "Brentwood, MO 63144"
+                ]
+            },
+            "phone": "+13147811913",
+            "display_phone": "(314) 781-1913",
+            "distance": 2009.426868180024
+        },
+        {
+            "id": "hbh5vELI_iE5qbSZmUrlpQ",
+            "alias": "hardees-saint-louis-14",
+            "name": "Hardee's",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hardees-saint-louis-14?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.486515045166,
+                "longitude": -90.3580474853516
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4321 Butler Hill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63128",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4321 Butler Hill Rd",
+                    "Saint Louis, MO 63128"
+                ]
+            },
+            "phone": "+13148947511",
+            "display_phone": "(314) 894-7511",
+            "distance": 14362.339701303541
+        },
+        {
+            "id": "wAh1vhMQZBcjMbZds5Y0Xg",
+            "alias": "jack-in-the-box-saint-louis-4",
+            "name": "Jack-In-the Box",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/r5W51jUrqNXPJLT5wlzPCw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jack-in-the-box-saint-louis-4?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.52115,
+                "longitude": -90.346877
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "5905 S Lindbergh Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63123",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "5905 S Lindbergh Blvd",
+                    "Saint Louis, MO 63123"
+                ]
+            },
+            "phone": "+13148942573",
+            "display_phone": "(314) 894-2573",
+            "distance": 10386.163605236845
+        },
+        {
+            "id": "_eT4D7Rc1LAcHFLIekrp-g",
+            "alias": "crazy-bowls-and-wraps-saint-louis-3",
+            "name": "Crazy Bowls & Wraps",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bdkByBxVFf4qXRyWvsAOeA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/crazy-bowls-and-wraps-saint-louis-3?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "wraps",
+                    "title": "Wraps"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.60892,
+                "longitude": -90.36782
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "9635 Manchester Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63119",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "9635 Manchester Rd",
+                    "Saint Louis, MO 63119"
+                ]
+            },
+            "phone": "+13149189727",
+            "display_phone": "(314) 918-9727",
+            "distance": 4067.437653477745
+        },
+        {
+            "id": "7HOquuD846z4wvhdEEWhDg",
+            "alias": "white-castle-saint-louis-21",
+            "name": "White Castle",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GgNjttPwf6iyXc-BZQqjuw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/white-castle-saint-louis-21?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.5870651367384,
+                "longitude": -90.2759885012551
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "4525 S Kingshighway Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63109",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4525 S Kingshighway Blvd",
+                    "Saint Louis, MO 63109"
+                ]
+            },
+            "phone": "+13143537099",
+            "display_phone": "(314) 353-7099",
+            "distance": 4844.988102063981
+        },
+        {
+            "id": "Ocxeap3UMNx1bbH_URlhdg",
+            "alias": "culvers-st-louis",
+            "name": "Culver's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/I8Z2FLwYao6W-jNdbRlZog/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/culvers-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 23,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.51037,
+                "longitude": -90.33958
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4140 Rusty Rd",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63128",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4140 Rusty Rd",
+                    "St. Louis, MO 63128"
+                ]
+            },
+            "phone": "+13148450964",
+            "display_phone": "(314) 845-0964",
+            "distance": 11444.856468995633
+        },
+        {
+            "id": "R1lq1J42UkLz4sEOOG6CVw",
+            "alias": "steak-n-shake-saint-louis-12",
+            "name": "Steak 'n Shake",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uFxmNN93wXqO46tDayy9AA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/steak-n-shake-saint-louis-12?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 88,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.6127792,
+                "longitude": -90.3268591
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "7606 Manchester Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63143",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "7606 Manchester Rd",
+                    "Saint Louis, MO 63143"
+                ]
+            },
+            "phone": "+13146451815",
+            "display_phone": "(314) 645-1815",
+            "distance": 480.5294524200277
+        },
+        {
+            "id": "KiIVFwppKrVY5ocNrPps1A",
+            "alias": "jack-in-the-box-saint-louis-11",
+            "name": "Jack in the Box",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Me9MMt0-SbBJodlTa0Dlaw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jack-in-the-box-saint-louis-11?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.72974,
+                "longitude": -90.34475
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "9707 Natural Bridge Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63134",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "9707 Natural Bridge Rd",
+                    "Saint Louis, MO 63134"
+                ]
+            },
+            "phone": "+13144230244",
+            "display_phone": "(314) 423-0244",
+            "distance": 13189.548450335218
+        },
+        {
+            "id": "5K9oTIa83359gJKHyFPcJQ",
+            "alias": "kimcheese-chesterfield",
+            "name": "Kimcheese",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SIQ9ciICaSC4X7VpyUbRfg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kimcheese-chesterfield?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 321,
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.68037,
+                "longitude": -90.49821
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "13435 Olive Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Chesterfield",
+                "zip_code": "63017",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "13435 Olive Blvd",
+                    "Chesterfield, MO 63017"
+                ]
+            },
+            "phone": "+13144851408",
+            "display_phone": "(314) 485-1408",
+            "distance": 17121.569916889548
+        }
+    ],
+    "total": 1300,
+    "region": {
+        "center": {
+            "longitude": -90.32135009765625,
+            "latitude": 38.61239775768799
+        }
+    }
+}

@@ -1,0 +1,1958 @@
+{
+    "businesses": [
+        {
+            "id": "P61ecBVVPgBm-zH_SYq8FA",
+            "alias": "st-louis-union-station-hotel-saint-louis",
+            "name": "St Louis Union Station Hotel",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LIR_Tfo7gunq5p-smNuH_Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-louis-union-station-hotel-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 228,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6295275995313,
+                "longitude": -90.2084375636339
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "1820 Market St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63103",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1820 Market St",
+                    "Saint Louis, MO 63103"
+                ]
+            },
+            "phone": "+13142311234",
+            "display_phone": "(314) 231-1234",
+            "distance": 833.581353760689
+        },
+        {
+            "id": "fqC3Iu46oXYuN-YVpMUg_w",
+            "alias": "drury-plaza-hotel-st-louis-at-the-arch-saint-louis-2",
+            "name": "Drury Plaza Hotel St. Louis At The Arch",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y1RrIJt99A5aaozEjkwn1Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/drury-plaza-hotel-st-louis-at-the-arch-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 113,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6248869,
+                "longitude": -90.188709
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2 South 4th St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63101",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2 South 4th St",
+                    "Saint Louis, MO 63101"
+                ]
+            },
+            "phone": "+13142313003",
+            "display_phone": "(314) 231-3003",
+            "distance": 958.2351397887436
+        },
+        {
+            "id": "jxbhi7rEQIjh4uSRunZQVA",
+            "alias": "hampton-inn-st-louis-downtown-at-the-gateway-arch-saint-louis-2",
+            "name": "Hampton Inn St. Louis-Downtown At the Gateway Arch",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-HKVE8saUAcH6uobtVNwGA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hampton-inn-st-louis-downtown-at-the-gateway-arch-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 85,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.630049,
+                "longitude": -90.186505
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "333 Washington Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63102",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "333 Washington Ave",
+                    "Saint Louis, MO 63102"
+                ]
+            },
+            "phone": "+13146217900",
+            "display_phone": "(314) 621-7900",
+            "distance": 1170.3960947715427
+        },
+        {
+            "id": "6MUBU342_J6fetRYaV0HvQ",
+            "alias": "four-seasons-hotel-saint-louis-2",
+            "name": "Four Seasons Hotel",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c7FT4Ngx040MhxQpZXsHRQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/four-seasons-hotel-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 117,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.6336917487084,
+                "longitude": -90.1849631515609
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "999 N 2nd St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63102",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "999 N 2nd St",
+                    "Saint Louis, MO 63102"
+                ]
+            },
+            "phone": "+13148815800",
+            "display_phone": "(314) 881-5800",
+            "distance": 1458.1624193819453
+        },
+        {
+            "id": "GRj1oM4aSaJZDKaHwrEMqg",
+            "alias": "magnolia-hotel-st-louis-a-tribute-portfolio-hotel-st-louis",
+            "name": "Magnolia Hotel St. Louis, A Tribute Portfolio Hotel",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Qb5a-t4FEYCtk8TWOQKB6A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/magnolia-hotel-st-louis-a-tribute-portfolio-hotel-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 73,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.630034,
+                "longitude": -90.192202
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "421 N 8th St",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63101",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "421 N 8th St",
+                    "St. Louis, MO 63101"
+                ]
+            },
+            "phone": "+13144369000",
+            "display_phone": "(314) 436-9000",
+            "distance": 710.4672158134988
+        },
+        {
+            "id": "18zXpz-yBCLHDH3de3_reg",
+            "alias": "courtyard-by-marriott-st-louis-downtown-convention-center-st-louis-2",
+            "name": "Courtyard by Marriott St. Louis Downtown/Convention Center",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/38xLI8GkvqWvwyxM5lAtqQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/courtyard-by-marriott-st-louis-downtown-convention-center-st-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6311557839468,
+                "longitude": -90.192405199623
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "823-827 Washington Ave",
+                "address2": null,
+                "address3": null,
+                "city": "St. Louis",
+                "zip_code": "63101",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "823-827 Washington Ave",
+                    "St. Louis, MO 63101"
+                ]
+            },
+            "phone": "+13142317560",
+            "display_phone": "(314) 231-7560",
+            "distance": 763.301648063421
+        },
+        {
+            "id": "GbGbh15JQXb0-V-XYGGp5w",
+            "alias": "drury-inn-st-louis-st-louis",
+            "name": "Drury Inn - St Louis",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/A5mgjhlZYDLEm89qMdir0Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/drury-inn-st-louis-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 62,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.62802,
+                "longitude": -90.21047
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "201 S 20th St",
+                "address2": "",
+                "address3": "Union Station",
+                "city": "St. Louis",
+                "zip_code": "63103",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "201 S 20th St",
+                    "Union Station",
+                    "St. Louis, MO 63103"
+                ]
+            },
+            "phone": "+13142313900",
+            "display_phone": "(314) 231-3900",
+            "distance": 942.745791667373
+        },
+        {
+            "id": "R-FCQ9R0emv37lMJt4hN9Q",
+            "alias": "the-westin-st-louis-saint-louis",
+            "name": "The Westin St. Louis",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mRRw5rXIgEBdvRmWJ0Zvew/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-westin-st-louis-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 185,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.62371,
+                "longitude": -90.19503
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "811 Spruce St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63102",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "811 Spruce St",
+                    "Saint Louis, MO 63102"
+                ]
+            },
+            "phone": "+13146212000",
+            "display_phone": "(314) 621-2000",
+            "distance": 524.6353560966189
+        },
+        {
+            "id": "M0c99tzIJPIbrY_RAO7KSQ",
+            "alias": "hyatt-regency-saint-louis",
+            "name": "Hyatt Regency",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/f4gI52vUwJwdVj4vU8X7IA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hyatt-regency-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 346,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.62616,
+                "longitude": -90.18771
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "315 Chestnut St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63102",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "315 Chestnut St",
+                    "Saint Louis, MO 63102"
+                ]
+            },
+            "phone": "+13146551234",
+            "display_phone": "(314) 655-1234",
+            "distance": 1014.3840527173822
+        },
+        {
+            "id": "jOU3hmUYmDIswWzW0xvWcw",
+            "alias": "embassy-suites-st-louis-downtown-saint-louis",
+            "name": "Embassy Suites St. Louis - Downtown",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lylNMGNW7AiJ2FWnC9Xypg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/embassy-suites-st-louis-downtown-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 74,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.6306,
+                "longitude": -90.1902237
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "610 N 7th St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63101",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "610 N 7th St",
+                    "Saint Louis, MO 63101"
+                ]
+            },
+            "phone": "+13142695900",
+            "display_phone": "(314) 269-5900",
+            "distance": 891.642881757995
+        },
+        {
+            "id": "cC8PZ_FhQNnMm2YCYyOA1A",
+            "alias": "hilton-st-louis-at-the-ballpark-saint-louis",
+            "name": "Hilton St. Louis at the Ballpark",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sObUFYWrYM8dwGJnw_gwCA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hilton-st-louis-at-the-ballpark-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 266,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.62518,
+                "longitude": -90.19104
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1 S Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63102",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1 S Broadway",
+                    "Saint Louis, MO 63102"
+                ]
+            },
+            "phone": "+13144211776",
+            "display_phone": "(314) 421-1776",
+            "distance": 740.2878780352008
+        },
+        {
+            "id": "rR2mWg0ybsUe5smIedz4Gg",
+            "alias": "marriott-st-louis-grand-saint-louis",
+            "name": "Marriott St. Louis Grand",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KLMYnite1gIOJLLnk1x8cA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/marriott-st-louis-grand-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 225,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.6303999,
+                "longitude": -90.1919974
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "800 Washington Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63101",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "800 Washington Ave",
+                    "Saint Louis, MO 63101"
+                ]
+            },
+            "phone": "+13146219600",
+            "display_phone": "(314) 621-9600",
+            "distance": 745.9152292456631
+        },
+        {
+            "id": "birP5Vv97kwnyy1Wi7nQ6w",
+            "alias": "holiday-inn-st-louis-downtown-conv-ctr-st-louis",
+            "name": "Holiday Inn St. Louis - Downtown Conv Ctr",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_IAaNA7W-XS8m9xjYxKiRQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/holiday-inn-st-louis-downtown-conv-ctr-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                },
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.63304,
+                "longitude": -90.19261
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "811 N 9th St",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63101",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "811 N 9th St",
+                    "St. Louis, MO 63101"
+                ]
+            },
+            "phone": "+13144214000",
+            "display_phone": "(314) 421-4000",
+            "distance": 897.3858954555213
+        },
+        {
+            "id": "CIA93RPc0IbUY2e0Cil6gg",
+            "alias": "pear-tree-inn-st-louis-near-union-station-saint-louis",
+            "name": "Pear Tree Inn St. Louis Near Union Station",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OrKw-Pt7M6-cZ7L68UiNJw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pear-tree-inn-st-louis-near-union-station-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 81,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.6312561035156,
+                "longitude": -90.2124099731445
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2211 Market St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63103",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2211 Market St",
+                    "Saint Louis, MO 63103"
+                ]
+            },
+            "phone": "+13142413200",
+            "display_phone": "(314) 241-3200",
+            "distance": 1230.8607807631688
+        },
+        {
+            "id": "1HUJGIOAFDHnBOZ06lXkGw",
+            "alias": "napoleons-retreat-saint-louis",
+            "name": "Napoleon's Retreat",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HU-jOqoHDqz2x-KQI6xe-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/napoleons-retreat-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 21,
+            "categories": [
+                {
+                    "alias": "bedbreakfast",
+                    "title": "Bed & Breakfast"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.6141128540039,
+                "longitude": -90.2123794555664
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1815 Lafayette Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63104",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1815 Lafayette Ave",
+                    "Saint Louis, MO 63104"
+                ]
+            },
+            "phone": "+13147726979",
+            "display_phone": "(314) 772-6979",
+            "distance": 1823.3558490455055
+        },
+        {
+            "id": "wywx6CORdqCeSfYLD2cHqQ",
+            "alias": "drury-inn-and-suites-st-louis-convention-center-saint-louis-2",
+            "name": "Drury Inn & Suites St. Louis Convention Center",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RHLur8tG86P_dqZNmiEjIA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/drury-inn-and-suites-st-louis-convention-center-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 61,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6312,
+                "longitude": -90.18843
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "711 North Broadway",
+                "address2": null,
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63102",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "711 North Broadway",
+                    "Saint Louis, MO 63102"
+                ]
+            },
+            "phone": "+13142318100",
+            "display_phone": "(314) 231-8100",
+            "distance": 1078.6588702926665
+        },
+        {
+            "id": "9m6FEbg7mXTRf-H3u8ylmQ",
+            "alias": "hilton-st-louis-downtown-at-the-arch-saint-louis",
+            "name": "Hilton St. Louis Downtown at the Arch",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s81W5fQFvyyTF_Wq3gZqdw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hilton-st-louis-downtown-at-the-arch-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 106,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.6274545,
+                "longitude": -90.1881935
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "400 Olive St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63102",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "400 Olive St",
+                    "Saint Louis, MO 63102"
+                ]
+            },
+            "phone": "+13144360002",
+            "display_phone": "(314) 436-0002",
+            "distance": 974.9538753020537
+        },
+        {
+            "id": "511w7d4H9BRXovw6hB_3iA",
+            "alias": "st-louis-city-center-hotel-saint-louis-2",
+            "name": "St. Louis City Center Hotel",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nE_0P1wNVjw1F5Q8z1iFYQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/st-louis-city-center-hotel-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 180,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.6242,
+                "longitude": -90.20206
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "400 S 14th St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63103",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "400 S 14th St",
+                    "Saint Louis, MO 63103"
+                ]
+            },
+            "phone": "+13142315007",
+            "display_phone": "(314) 231-5007",
+            "distance": 397.82119310194497
+        },
+        {
+            "id": "yNgoDfpG20TwPx5U07qs3A",
+            "alias": "hotel-ignacio-saint-louis",
+            "name": "Hotel Ignacio",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QV9024EO9KymeXgy71nwYQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hotel-ignacio-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6366529017687,
+                "longitude": -90.228683128953
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3411 Olive St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63103",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3411 Olive St",
+                    "Saint Louis, MO 63103"
+                ]
+            },
+            "phone": "+13149774411",
+            "display_phone": "(314) 977-4411",
+            "distance": 2761.31068764564
+        },
+        {
+            "id": "rKAGFAw_hpw8KCF06OKhMA",
+            "alias": "courtyard-by-marriott-st-louis-downtown-west-st-louis",
+            "name": "Courtyard by Marriott St Louis Downtown West",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lXqDiWsNNwgomMrt5jJjxg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/courtyard-by-marriott-st-louis-downtown-west-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 42,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.630057,
+                "longitude": -90.214303
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2340 Market Street at Jefferson",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63103",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2340 Market Street at Jefferson",
+                    "St. Louis, MO 63103"
+                ]
+            },
+            "phone": "+13142419111",
+            "display_phone": "(314) 241-9111",
+            "distance": 1338.2019967142287
+        },
+        {
+            "id": "oTnSKTLnXmyaMBt46mnz7w",
+            "alias": "residence-inn-saint-louis",
+            "name": "Residence Inn",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wZak3ZzD3e5cUBNoLSgZjg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/residence-inn-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.6268081665039,
+                "longitude": -90.2190170288086
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "525 S Jefferson Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63103",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "525 S Jefferson Ave",
+                    "Saint Louis, MO 63103"
+                ]
+            },
+            "phone": "+13142897500",
+            "display_phone": "(314) 289-7500",
+            "distance": 1677.812330485662
+        },
+        {
+            "id": "54vEFcAri3Wj6cdM4ljDBA",
+            "alias": "moonrise-hotel-saint-louis",
+            "name": "Moonrise Hotel",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hJP37tNcY3AfpOxojy8mng/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/moonrise-hotel-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 273,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6556869,
+                "longitude": -90.2987689
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "6177 Delmar In The Lp",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63112",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "6177 Delmar In The Lp",
+                    "Saint Louis, MO 63112"
+                ]
+            },
+            "phone": "+13147211111",
+            "display_phone": "(314) 721-1111",
+            "distance": 9200.634025667154
+        },
+        {
+            "id": "9JI9Ib_Ma-SrfPNe5d4H-Q",
+            "alias": "home2-suites-by-hilton-st-louis-forest-park-saint-louis",
+            "name": "Home2 Suites by Hilton St. Louis/ Forest Park",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CrzNe_TGlOnjZSs9xbriag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/home2-suites-by-hilton-st-louis-forest-park-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 23,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.631178,
+                "longitude": -90.260228
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "920 S Taylor Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63110",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "920 S Taylor Ave",
+                    "Saint Louis, MO 63110"
+                ]
+            },
+            "phone": "+13145314446",
+            "display_phone": "(314) 531-4446",
+            "distance": 5304.053291015455
+        },
+        {
+            "id": "gz8MHp1cyvMEavgKC727mA",
+            "alias": "hotel-majestic-st-louis-saint-louis",
+            "name": "Hotel Majestic St. Louis",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CGQ4zup7jhE9bd8UUDafLg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hotel-majestic-st-louis-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 42,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.6284808814526,
+                "longitude": -90.1951749622822
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1019 Pine St",
+                "address2": null,
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63101",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1019 Pine St",
+                    "Saint Louis, MO 63101"
+                ]
+            },
+            "phone": "+13144362355",
+            "display_phone": "(314) 436-2355",
+            "distance": 383.87092131933616
+        },
+        {
+            "id": "qz6Tk5eCnF7qcOqQwJ3Nkg",
+            "alias": "drury-inn-and-suites-st-louis-forest-park-saint-louis",
+            "name": "Drury Inn & Suites St. Louis Forest Park",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EJ25d1R5pUcJo_DMKoVkqg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/drury-inn-and-suites-st-louis-forest-park-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 44,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.61736,
+                "longitude": -90.28859
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2111 Sulphur Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63139",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2111 Sulphur Ave",
+                    "Saint Louis, MO 63139"
+                ]
+            },
+            "phone": "+13146460770",
+            "display_phone": "(314) 646-0770",
+            "distance": 7821.871899107485
+        },
+        {
+            "id": "8ijy38KNJiLZoZnIzm1yDQ",
+            "alias": "dwell-912-saint-louis-5",
+            "name": "Dwell 912",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ytuZSBHcafIPUJrYQqwm7A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dwell-912-saint-louis-5?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "bedbreakfast",
+                    "title": "Bed & Breakfast"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.615754,
+                "longitude": -90.199215
+            },
+            "transactions": [],
+            "location": {
+                "address1": "912 Hickory St",
+                "address2": null,
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63104",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "912 Hickory St",
+                    "Saint Louis, MO 63104"
+                ]
+            },
+            "phone": "+13145993100",
+            "display_phone": "(314) 599-3100",
+            "distance": 1250.9358364330856
+        },
+        {
+            "id": "RYRfOTAcgucxoRRnSxP9AQ",
+            "alias": "hampton-inn-and-suites-st-louis-at-forest-park-saint-louis",
+            "name": "Hampton Inn & Suites St. Louis at Forest Park",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Cac3w0NIb3b_exALfQBRTQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hampton-inn-and-suites-st-louis-at-forest-park-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 53,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.629815,
+                "longitude": -90.281295
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5650 Oakland Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63110",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "5650 Oakland Ave",
+                    "Saint Louis, MO 63110"
+                ]
+            },
+            "phone": "+13146553994",
+            "display_phone": "(314) 655-3994",
+            "distance": 7120.635341899432
+        },
+        {
+            "id": "-7_R1BNUukbvb97OMNmxnA",
+            "alias": "doubletree-by-hilton-hotel-collinsville-st-louis-collinsville-7",
+            "name": "DoubleTree by Hilton Hotel Collinsville - St. Louis",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_WmvcalAL34EYY9i4y_eOA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/doubletree-by-hilton-hotel-collinsville-st-louis-collinsville-7?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 56,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.6792161,
+                "longitude": -90.0160828
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1000 Eastport Plaza Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Collinsville",
+                "zip_code": "62234",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1000 Eastport Plaza Dr",
+                    "Collinsville, IL 62234"
+                ]
+            },
+            "phone": "+16183452800",
+            "display_phone": "(618) 345-2800",
+            "distance": 16944.51565316292
+        },
+        {
+            "id": "6huJ1Tk-QiLO6FVI-5cX4A",
+            "alias": "the-chase-park-plaza-st-louis",
+            "name": "The Chase Park Plaza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Dc5upR1bLsy1LYlbTrbLJw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-chase-park-plaza-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 207,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.64426,
+                "longitude": -90.2645299
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "212 N Kingshighway",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63108",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "212 N Kingshighway",
+                    "St. Louis, MO 63108"
+                ]
+            },
+            "phone": "+13146333000",
+            "display_phone": "(314) 633-3000",
+            "distance": 5923.248797689492
+        },
+        {
+            "id": "VHJ0zyW7iTDufSyyluFn9g",
+            "alias": "soulard-residence-saint-louis-2",
+            "name": "Soulard Residence",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_YqbBKGkNRR996eA-fgZPw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/soulard-residence-saint-louis-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.6053886,
+                "longitude": -90.2081375
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2222 Menard St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63104",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2222 Menard St",
+                    "Saint Louis, MO 63104"
+                ]
+            },
+            "phone": "+13146099281",
+            "display_phone": "(314) 609-9281",
+            "distance": 2520.2894135248616
+        },
+        {
+            "id": "9Bf4mhvCmA6sv0hpwi3jDw",
+            "alias": "comfort-inn-and-suites-cahokia",
+            "name": "Comfort Inn & Suites",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NWimLmZX0ILAg65rDwqkFg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/comfort-inn-and-suites-cahokia?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.555865,
+                "longitude": -90.164445
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1607 Pontiac Drive",
+                "address2": "",
+                "address3": "",
+                "city": "Cahokia",
+                "zip_code": "62206",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1607 Pontiac Drive",
+                    "Cahokia, IL 62206"
+                ]
+            },
+            "phone": "+16183322000",
+            "display_phone": "(618) 332-2000",
+            "distance": 8473.56499055487
+        },
+        {
+            "id": "QCPhg4xl22h2IuCKGmkaNw",
+            "alias": "city-place-downtown-st-louis",
+            "name": "City Place - Downtown",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C_ff55pIq4H97XZCMOZShA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/city-place-downtown-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 69,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.6270213794206,
+                "longitude": -90.1881847909158
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "200 N 4th St",
+                "address2": "",
+                "address3": null,
+                "city": "St. Louis",
+                "zip_code": "63102",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "200 N 4th St",
+                    "St. Louis, MO 63102"
+                ]
+            },
+            "phone": "+18448080295",
+            "display_phone": "(844) 808-0295",
+            "distance": 974.4220257775088
+        },
+        {
+            "id": "QN7JpoH3Qu-Y-EhXdxrkMQ",
+            "alias": "fleur-de-lys-mansion-saint-louis",
+            "name": "Fleur-de-Lys Mansion",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FA5tH_OGknRkyNe4Jn0uow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fleur-de-lys-mansion-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "bedbreakfast",
+                    "title": "Bed & Breakfast"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.6125465,
+                "longitude": -90.2380408
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3500 Russell Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63104",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3500 Russell Blvd",
+                    "Saint Louis, MO 63104"
+                ]
+            },
+            "phone": "+13147733500",
+            "display_phone": "(314) 773-3500",
+            "distance": 3721.8670829111948
+        },
+        {
+            "id": "n6c9PiJIpe1Vjuv3o-JRxw",
+            "alias": "lumiere-place-casino-and-hotels-st-louis",
+            "name": "Lumiere Place Casino & Hotels",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VEkIU6fn4Mmu8su-t5fQaA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lumiere-place-casino-and-hotels-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 179,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "casinos",
+                    "title": "Casinos"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.633428284321,
+                "longitude": -90.1844976957702
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "999 N 2nd St",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63102",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "999 N 2nd St",
+                    "St. Louis, MO 63102"
+                ]
+            },
+            "phone": "+13148817777",
+            "display_phone": "(314) 881-7777",
+            "distance": 1478.7084963571458
+        },
+        {
+            "id": "RJiepHovHAZFZPMVSVsjpA",
+            "alias": "holiday-inn-express-and-suites-edwardsville-edwardsville",
+            "name": "Holiday Inn Express & Suites - Edwardsville",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8VZkLkNQu_nCMjRmcUYLRw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/holiday-inn-express-and-suites-edwardsville-edwardsville?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.79054,
+                "longitude": -89.97781
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1000 Plummer Dr",
+                "address2": null,
+                "address3": "",
+                "city": "Edwardsville",
+                "zip_code": "62025",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1000 Plummer Dr",
+                    "Edwardsville, IL 62025"
+                ]
+            },
+            "phone": "+16186927255",
+            "display_phone": "(618) 692-7255",
+            "distance": 26455.4629496421
+        },
+        {
+            "id": "wt-nZcKEihRl6liR0P1ALw",
+            "alias": "americas-best-value-inn-st-louis-downtown-saint-louis",
+            "name": "Americas Best Value Inn St. Louis Downtown",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wDe60IRJFG62AWsM8kxxIw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/americas-best-value-inn-st-louis-downtown-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 21,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.6345663,
+                "longitude": -90.1854417
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1100 Lumiere Place Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63102",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1100 Lumiere Place Blvd",
+                    "Saint Louis, MO 63102"
+                ]
+            },
+            "phone": "+13144216556",
+            "display_phone": "(314) 421-6556",
+            "distance": 1475.7320928074232
+        },
+        {
+            "id": "L1i13JBm7lJwBylDccQrgw",
+            "alias": "holiday-inn-express-st-louis-central-west-end-st-louis",
+            "name": "Holiday Inn Express St Louis - Central West End",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9RqvNCYG25uST6EJTlWJ6w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/holiday-inn-express-st-louis-central-west-end-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.642528656985,
+                "longitude": -90.2609679996773
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4630 Lindell Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63108",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4630 Lindell Blvd",
+                    "St. Louis, MO 63108"
+                ]
+            },
+            "phone": "+13143614900",
+            "display_phone": "(314) 361-4900",
+            "distance": 5619.315646009958
+        },
+        {
+            "id": "tOwnfEpgJQFmmkydBjSteg",
+            "alias": "hampton-inn-and-suites-st-louis-south-i-55-saint-louis-3",
+            "name": "Hampton Inn & Suites St. Louis/South I-55",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8MTT0MPFKhmN1CfBe20JVA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hampton-inn-and-suites-st-louis-south-i-55-saint-louis-3?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 46,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 38.484238189771,
+                "longitude": -90.3532223140717
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4200 MidAmerica Ln",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63129",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4200 MidAmerica Ln",
+                    "Saint Louis, MO 63129"
+                ]
+            },
+            "phone": "+13148941900",
+            "display_phone": "(314) 894-1900",
+            "distance": 20758.307881245404
+        },
+        {
+            "id": "ubrkUuNeJpGegZfpmMLJFA",
+            "alias": "the-parkway-hotel-saint-louis",
+            "name": "The Parkway Hotel",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Xjk9IOKMCN3ILl1oDBSnpw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-parkway-hotel-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 56,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.638542175293,
+                "longitude": -90.2618103027344
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4550 Forest Park Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63108",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4550 Forest Park Ave",
+                    "Saint Louis, MO 63108"
+                ]
+            },
+            "phone": "+13142567777",
+            "display_phone": "(314) 256-7777",
+            "distance": 5570.61204321887
+        },
+        {
+            "id": "Gevgf65iy9nRlS6AYs4c5Q",
+            "alias": "drury-inn-and-suites-st-louis-brentwood-brentwood",
+            "name": "Drury Inn & Suites St. Louis Brentwood",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PIwuKdSVVjdH8SVMhm-fQQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/drury-inn-and-suites-st-louis-brentwood-brentwood?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 25,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.6275404,
+                "longitude": -90.3450322
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "8700 Eager Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Brentwood",
+                "zip_code": "63144",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "8700 Eager Rd",
+                    "Brentwood, MO 63144"
+                ]
+            },
+            "phone": "+13149683704",
+            "display_phone": "(314) 968-3704",
+            "distance": 12650.7419118882
+        },
+        {
+            "id": "c3v2SOndiJbqA_q_HYqn6Q",
+            "alias": "drury-inn-and-suites-o-fallon",
+            "name": "Drury Inn & Suites",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/o-EM6HGOtKGrRmQSe68E2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/drury-inn-and-suites-o-fallon?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.5740445,
+                "longitude": -89.9301473
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1118 Central Park Dr",
+                "address2": null,
+                "address3": null,
+                "city": "O'Fallon",
+                "zip_code": "62269",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1118 Central Park Dr",
+                    "O'Fallon, IL 62269"
+                ]
+            },
+            "phone": "+16186242211",
+            "display_phone": "(618) 624-2211",
+            "distance": 24127.961557925017
+        },
+        {
+            "id": "ZE8dk6AKN7grCkG-w_Kvsw",
+            "alias": "fairfield-inn-and-suites-st-louis-pontoon-beach-granite-city-il-pontoon-beach",
+            "name": "Fairfield Inn & Suites St. Louis Pontoon Beach/Granite City, IL",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BBoG3I7jFc8Kwfy5e4TIDw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fairfield-inn-and-suites-st-louis-pontoon-beach-granite-city-il-pontoon-beach?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.7516960406416,
+                "longitude": -90.0712474815757
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "5224 Commerce Pkwy",
+                "address2": "",
+                "address3": "",
+                "city": "Pontoon Beach",
+                "zip_code": "62040",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "5224 Commerce Pkwy",
+                    "Pontoon Beach, IL 62040"
+                ]
+            },
+            "phone": "+16187097933",
+            "display_phone": "(618) 709-7933",
+            "distance": 17775.336144674184
+        },
+        {
+            "id": "CphAwClVwALK8D5PkINRBg",
+            "alias": "park-avenue-mansion-bed-and-breakfast-saint-louis",
+            "name": "Park Avenue Mansion Bed and Breakfast",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XgrdOz_VTaH5dgFaF4tv_g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/park-avenue-mansion-bed-and-breakfast-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "bedbreakfast",
+                    "title": "Bed & Breakfast"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 38.6178,
+                "longitude": -90.21368
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2007 Park Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63104",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2007 Park Ave",
+                    "Saint Louis, MO 63104"
+                ]
+            },
+            "phone": "+13145889004",
+            "display_phone": "(314) 588-9004",
+            "distance": 1618.6236614151785
+        },
+        {
+            "id": "kuPgnP7jE6FmPx8C4fIs7w",
+            "alias": "the-cheshire-st-louis",
+            "name": "The Cheshire",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/42O3eQro8wFkUbeRfLUQRg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-cheshire-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 137,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.6332425,
+                "longitude": -90.3068836227539
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "6300 Clayton Rd",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63117",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "6300 Clayton Rd",
+                    "St. Louis, MO 63117"
+                ]
+            },
+            "phone": "+13146477300",
+            "display_phone": "(314) 647-7300",
+            "distance": 9362.083509474116
+        },
+        {
+            "id": "oVr68YLI0PMSkEc_SHMkFA",
+            "alias": "the-ritz-carlton-st-louis-st-louis-3",
+            "name": "The Ritz-Carlton, St. Louis",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nlqH0T-0ZatWFzwkmXb3eQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-ritz-carlton-st-louis-st-louis-3?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 127,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6482356597711,
+                "longitude": -90.3309796751091
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "100 Carondelet Plz",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63105",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "100 Carondelet Plz",
+                    "St. Louis, MO 63105"
+                ]
+            },
+            "phone": "+13148636300",
+            "display_phone": "(314) 863-6300",
+            "distance": 11669.564436524004
+        },
+        {
+            "id": "x2POrrskDrnQGIrkPRarfQ",
+            "alias": "drury-inn-collinsville",
+            "name": "Drury Inn",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hd5BjxHlSUIz5b2iKLaKYw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/drury-inn-collinsville?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.6834094,
+                "longitude": -90.0108076
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "602 N Bluff St",
+                "address2": "",
+                "address3": "",
+                "city": "Collinsville",
+                "zip_code": "62234",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "602 N Bluff St",
+                    "Collinsville, IL 62234"
+                ]
+            },
+            "phone": "+16183457700",
+            "display_phone": "(618) 345-7700",
+            "distance": 17589.56149049956
+        },
+        {
+            "id": "5MjB9464NZhyJGGwNeZuvA",
+            "alias": "hampton-inn-and-suites-clayton-st-louis-galleria-area-clayton",
+            "name": "Hampton Inn & Suites Clayton/St Louis Galleria Area",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HNt_NLLG2__QvaUGhewhgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hampton-inn-and-suites-clayton-st-louis-galleria-area-clayton?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.654686,
+                "longitude": -90.338631
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "216 N Meramec Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Clayton",
+                "zip_code": "63105",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "216 N Meramec Ave",
+                    "Clayton, MO 63105"
+                ]
+            },
+            "phone": "+13147270700",
+            "display_phone": "(314) 727-0700",
+            "distance": 12477.728021279056
+        },
+        {
+            "id": "KOm97IzVZ_xOsk5RooKSnw",
+            "alias": "embassy-suites-hotel-saint-louis",
+            "name": "Embassy Suites Hotel",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/embassy-suites-hotel-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.631582185626,
+                "longitude": -90.1830634474754
+            },
+            "transactions": [],
+            "location": {
+                "address1": "901 N 1st St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63102",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "901 N 1st St",
+                    "Saint Louis, MO 63102"
+                ]
+            },
+            "phone": "+13142695900",
+            "display_phone": "(314) 269-5900",
+            "distance": 1506.1333606158148
+        },
+        {
+            "id": "GqimZB-5lTIENa6It_myqA",
+            "alias": "lumière-place-casino-and-hotel-saint-louis",
+            "name": "Lumière Place Casino and Hotel",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/B9YZLO2wZDQTeXTJTuwDMA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lumi%C3%A8re-place-casino-and-hotel-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 105,
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.63285,
+                "longitude": -90.18409
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "999 N 2nd St",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63102",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "999 N 2nd St",
+                    "Saint Louis, MO 63102"
+                ]
+            },
+            "phone": "+13148817777",
+            "display_phone": "(314) 881-7777",
+            "distance": 1419.4193188965085
+        },
+        {
+            "id": "324pq-6VvhAG8TiZpS1ysA",
+            "alias": "grand-center-inn-saint-louis",
+            "name": "Grand Center Inn",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gDyZQ67hLWjErTYBqrFjeQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/grand-center-inn-saint-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "bedbreakfast",
+                    "title": "Bed & Breakfast"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 38.64112,
+                "longitude": -90.23351
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3716 Grandel Sq",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63103",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3716 Grandel Sq",
+                    "Saint Louis, MO 63103"
+                ]
+            },
+            "phone": "+13145330771",
+            "display_phone": "(314) 533-0771",
+            "distance": 3353.6686588151515
+        }
+    ],
+    "total": 260,
+    "region": {
+        "center": {
+            "longitude": -90.199402,
+            "latitude": 38.627003
+        }
+    }
+}

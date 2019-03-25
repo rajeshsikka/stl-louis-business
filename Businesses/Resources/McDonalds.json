@@ -1,0 +1,2302 @@
+{
+    "businesses": [
+        {
+            "id": "zZ_xsIQfotnHe25MxQyg0g",
+            "alias": "mcdonalds-brentwood-11",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uu2raa2KWknsOaN-ewjmIQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-brentwood-11?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.6267,
+                "longitude": -90.335488
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1595 S Hanley",
+                "address2": "",
+                "address3": "",
+                "city": "Brentwood",
+                "zip_code": "63144",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1595 S Hanley",
+                    "Brentwood, MO 63144"
+                ]
+            },
+            "phone": "+13147811913",
+            "display_phone": "(314) 781-1913",
+            "distance": 2009.426868180024
+        },
+        {
+            "id": "tKIY9qXUUHIqOXXyT5EB6w",
+            "alias": "mcdonalds-webster-groves",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zA0jsaHnYBldOId904z62g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-webster-groves?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.5911756217133,
+                "longitude": -90.3383284807205
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4 S Old Orchard Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Webster Groves",
+                "zip_code": "63119",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4 S Old Orchard Rd",
+                    "Webster Groves, MO 63119"
+                ]
+            },
+            "phone": "+13149627329",
+            "display_phone": "(314) 962-7329",
+            "distance": 2783.0604818360744
+        },
+        {
+            "id": "2gi23-n_4fTU11olohHxrg",
+            "alias": "mcdonalds-st-louis-6",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2FF3fxUbsT7Y5ObwZaQHSQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-6?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 59,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.593007,
+                "longitude": -90.293782
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4200 Hampton Ave",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63139",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4200 Hampton Ave",
+                    "St. Louis, MO 63139"
+                ]
+            },
+            "phone": "+13143521869",
+            "display_phone": "(314) 352-1869",
+            "distance": 3223.028792739473
+        },
+        {
+            "id": "uWLFplSCk3lI9rf84ZDwUw",
+            "alias": "mcdonalds-saint-louis-63",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VTt335tYYAMjmpn179hDtg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-saint-louis-63?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.624459,
+                "longitude": -90.287467
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1420 Hampton Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63139",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1420 Hampton Ave",
+                    "Saint Louis, MO 63139"
+                ]
+            },
+            "phone": "+13147818032",
+            "display_phone": "(314) 781-8032",
+            "distance": 3234.8354396005984
+        },
+        {
+            "id": "pokplllvDH7X9-n_3IEj_Q",
+            "alias": "mcdonalds-shrewsbury-6",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kZ_2uUeHFYwbHaRa0HXzFw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-shrewsbury-6?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 38.5830901215828,
+                "longitude": -90.3191155
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "7259 Watson Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Shrewsbury",
+                "zip_code": "63119",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "7259 Watson Rd",
+                    "Shrewsbury, MO 63119"
+                ]
+            },
+            "phone": "+13148321869",
+            "display_phone": "(314) 832-1869",
+            "distance": 3264.6377309773225
+        },
+        {
+            "id": "eIDC_UAORw0frg030Nw4tA",
+            "alias": "mcdonalds-rock-hill-9",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_3wgLSvK3QFBCPQJJvRq4w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-rock-hill-9?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.6068826700753,
+                "longitude": -90.3745845705271
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "9815 Manche Ster Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Rock Hill",
+                "zip_code": "63119",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "9815 Manche Ster Rd",
+                    "Rock Hill, MO 63119"
+                ]
+            },
+            "phone": "+13149614707",
+            "display_phone": "(314) 961-4707",
+            "distance": 4665.983384522003
+        },
+        {
+            "id": "rH0FgPdxWWhH4YFz4mempg",
+            "alias": "mcdonalds-st-louis-16",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4Y2v3UxvxqGNUWwIYqzyBg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-16?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.586273,
+                "longitude": -90.275726
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4620 S Kingshighway",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63109",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4620 S Kingshighway",
+                    "St. Louis, MO 63109"
+                ]
+            },
+            "phone": "+13144816715",
+            "display_phone": "(314) 481-6715",
+            "distance": 4893.270663236153
+        },
+        {
+            "id": "4LrN3iUtjMXUxilzE_xMVw",
+            "alias": "mcdonalds-st-louis-7",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/akjDl_ZcatCW5vcml6-93g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-7?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 38.5656645233387,
+                "longitude": -90.2925579249858
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "7241 Gravois Ave",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63116",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "7241 Gravois Ave",
+                    "St. Louis, MO 63116"
+                ]
+            },
+            "phone": "+13143510807",
+            "display_phone": "(314) 351-0807",
+            "distance": 5767.651103399059
+        },
+        {
+            "id": "DEULqPtQ5cbGyvc0yfZudQ",
+            "alias": "mcdonalds-university-city",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Cq7CdZy4DMqodWPx9VYGDA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-university-city?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.6739096807063,
+                "longitude": -90.3469978726935
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8127 Olive Street Road",
+                "address2": "",
+                "address3": "",
+                "city": "University City",
+                "zip_code": "63130",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "8127 Olive Street Road",
+                    "University City, MO 63130"
+                ]
+            },
+            "phone": "+13149941435",
+            "display_phone": "(314) 994-1435",
+            "distance": 7193.372009393274
+        },
+        {
+            "id": "HC0g0xOuGDqn1jCCMctu8w",
+            "alias": "mcdonalds-st-louis-14",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Q7x3eNXTtAV_2nrLtPa3UA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-14?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 56,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.639122,
+                "longitude": -90.24366
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4006 Lindell Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63108",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4006 Lindell Blvd",
+                    "St. Louis, MO 63108"
+                ]
+            },
+            "phone": "+13145343276",
+            "display_phone": "(314) 534-3276",
+            "distance": 7374.168814090676
+        },
+        {
+            "id": "XN6IctwNyZOvmlXCkmettw",
+            "alias": "mcdonalds-st-louis-21",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1Vq7sgigaiiuPJtlsLYYHw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-21?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.5459784898836,
+                "longitude": -90.287680485053
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4011 Bayless Ave",
+                "address2": null,
+                "address3": null,
+                "city": "St. Louis",
+                "zip_code": "63125",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4011 Bayless Ave",
+                    "St. Louis, MO 63125"
+                ]
+            },
+            "phone": "+13145445151",
+            "display_phone": "(314) 544-5151",
+            "distance": 7944.259983858053
+        },
+        {
+            "id": "XlbFKW_Keun8qh1S5m3QgQ",
+            "alias": "mcdonalds-olivette",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-gM58K6TKJLy2ZSkCvxfiQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-olivette?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 38.67336,
+                "longitude": -90.376392
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "9406 Olive Street Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Olivette",
+                "zip_code": "63132",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "9406 Olive Street Rd",
+                    "Olivette, MO 63132"
+                ]
+            },
+            "phone": "+13149910037",
+            "display_phone": "(314) 991-0037",
+            "distance": 8320.803697729096
+        },
+        {
+            "id": "dZ0ys95zBvv_LD6nrwhtyA",
+            "alias": "mcdonalds-kirkwood",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/U2tL40u0p1hUNgStxpUV7g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-kirkwood?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.577105,
+                "longitude": -90.406025
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "350 S Kirkwood Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Kirkwood",
+                "zip_code": "63122",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "350 S Kirkwood Rd",
+                    "Kirkwood, MO 63122"
+                ]
+            },
+            "phone": "+13149663335",
+            "display_phone": "(314) 966-3335",
+            "distance": 8339.885694136103
+        },
+        {
+            "id": "yM8LlTInbQH4FwWC97lz6w",
+            "alias": "mcdonalds-st-louis-22",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ekSVvs7wA3dEirES9DA1OA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-22?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 52,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.612495183949,
+                "longitude": -90.2219420671463
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1919 S Jefferson",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63104",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1919 S Jefferson",
+                    "St. Louis, MO 63104"
+                ]
+            },
+            "phone": "+13147712575",
+            "display_phone": "(314) 771-2575",
+            "distance": 8637.166876628002
+        },
+        {
+            "id": "EmN85_ePa8uogLdjN0g6Gw",
+            "alias": "mcdonalds-crestwood-5",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o0-niwhYztIt1X4dZiDl7A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-crestwood-5?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.557044499292,
+                "longitude": -90.3937831521035
+            },
+            "transactions": [],
+            "location": {
+                "address1": "9915 Watson Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Crestwood",
+                "zip_code": "63126",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "9915 Watson Rd",
+                    "Crestwood, MO 63126"
+                ]
+            },
+            "phone": "+13149650815",
+            "display_phone": "(314) 965-0815",
+            "distance": 8804.636367593403
+        },
+        {
+            "id": "PCdSjDrU4K8rUzVoxqFyew",
+            "alias": "mcdonalds-overland",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/91R1JicdPi6mtJH9i1qkSQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-overland?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.6862573621787,
+                "longitude": -90.3578292451311
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8960 Page Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Overland",
+                "zip_code": "63114",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "8960 Page Ave",
+                    "Overland, MO 63114"
+                ]
+            },
+            "phone": "+13144263810",
+            "display_phone": "(314) 426-3810",
+            "distance": 8802.596649443094
+        },
+        {
+            "id": "6FNfW_9YaP5Fm7tE1caLyA",
+            "alias": "mcdonalds-st-louis-9",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J2T_8BCEyeTui-0l_mrWkQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-9?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.6762163396513,
+                "longitude": -90.250689316581
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4979 Natural Bridge Rd",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63115",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4979 Natural Bridge Rd",
+                    "St. Louis, MO 63115"
+                ]
+            },
+            "phone": "+13143811328",
+            "display_phone": "(314) 381-1328",
+            "distance": 9381.710158677017
+        },
+        {
+            "id": "41LdicYBvhBYLmDdXhB21Q",
+            "alias": "mcdonalds-st-louis-4",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KzTQ1g3ZaANGWWj1vKVS9A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-4?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 38.7006580786419,
+                "longitude": -90.2906854357605
+            },
+            "transactions": [],
+            "location": {
+                "address1": "7171 Natural Bridge Rd",
+                "address2": null,
+                "address3": null,
+                "city": "St. Louis",
+                "zip_code": "63121",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "7171 Natural Bridge Rd",
+                    "St. Louis, MO 63121"
+                ]
+            },
+            "phone": "+13143813295",
+            "display_phone": "(314) 381-3295",
+            "distance": 10168.886780537181
+        },
+        {
+            "id": "1aSABPmktJY072mRN7_h6Q",
+            "alias": "mcdonalds-des-peres",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/svvaE6sChKBvtjLgUYEcBg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-des-peres?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.602031,
+                "longitude": -90.438571
+            },
+            "transactions": [],
+            "location": {
+                "address1": "12120 Manchester Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Des Peres",
+                "zip_code": "63131",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "12120 Manchester Rd",
+                    "Des Peres, MO 63131"
+                ]
+            },
+            "phone": "+13149662917",
+            "display_phone": "(314) 966-2917",
+            "distance": 10250.61183921992
+        },
+        {
+            "id": "fSfrk_Y9xmcCvMJVdYkJTA",
+            "alias": "mcdonalds-st-louis-23",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/d0kxDmhhu2CGzmYd2fFxbA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-23?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.5220025915035,
+                "longitude": -90.3463885188103
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5904 S Lindbergh Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63123",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "5904 S Lindbergh Blvd",
+                    "St. Louis, MO 63123"
+                ]
+            },
+            "phone": "+13144873548",
+            "display_phone": "(314) 487-3548",
+            "distance": 10284.493800882285
+        },
+        {
+            "id": "KBtJ98QUDu3LCESV33YxcA",
+            "alias": "mcdonalds-st-louis-15",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/clLKUeqDvvlpenzjuB0DBg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-15?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.691917,
+                "longitude": -90.3898552
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "10431 Page Ave",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63132",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "10431 Page Ave",
+                    "St. Louis, MO 63132"
+                ]
+            },
+            "phone": "+13144284425",
+            "display_phone": "(314) 428-4425",
+            "distance": 10657.007686717134
+        },
+        {
+            "id": "XS1wPZeULZtbiP1OsuHFwQ",
+            "alias": "mcdonalds-saint-louis-58",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pmkc6CqOiBFKxAp94bH3gg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-saint-louis-58?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.7101659952601,
+                "longitude": -90.350144960148
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8860 St Charles Rock Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Saint Louis",
+                "zip_code": "63114",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "8860 St Charles Rock Rd",
+                    "Saint Louis, MO 63114"
+                ]
+            },
+            "phone": "+13144231050",
+            "display_phone": "(314) 423-1050",
+            "distance": 11155.107218046502
+        },
+        {
+            "id": "9qxMhGWjGsuPUoQB3Y74Wg",
+            "alias": "mcdonalds-st-louis-10",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TuieeysKlnzIWh_FHfq49A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-10?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.6369079537214,
+                "longitude": -90.1954829933766
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1119 N Tucker",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63101",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1119 N Tucker",
+                    "St. Louis, MO 63101"
+                ]
+            },
+            "phone": "+13142414402",
+            "display_phone": "(314) 241-4402",
+            "distance": 11268.762475956064
+        },
+        {
+            "id": "bDNBsMltPLACTkYFIBB0Mg",
+            "alias": "mcdonalds-creve-coeur",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iusIWhbBqNowdRuIkqDnvQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-creve-coeur?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.671719,
+                "longitude": -90.437116
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "11521 Olive Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Creve Coeur",
+                "zip_code": "63141",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "11521 Olive Blvd",
+                    "Creve Coeur, MO 63141"
+                ]
+            },
+            "phone": "+13144322644",
+            "display_phone": "(314) 432-2644",
+            "distance": 12024.910602439562
+        },
+        {
+            "id": "bqT9LFxOiV9hr0361Ph8rA",
+            "alias": "mcdonalds-st-louis-11",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9696y2gnUhvtqF1if_9nGg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-11?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 38.7232826198362,
+                "longitude": -90.3044231143008
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1790 S Florissant Rd",
+                "address2": "",
+                "address3": "",
+                "city": "St Louis",
+                "zip_code": "63121",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1790 S Florissant Rd",
+                    "St Louis, MO 63121"
+                ]
+            },
+            "phone": "+13145211062",
+            "display_phone": "(314) 521-1062",
+            "distance": 12417.090533104287
+        },
+        {
+            "id": "yj0bwjpMvBuNgJ0IQIC8mQ",
+            "alias": "mcdonalds-st-louis-20",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rrruXdAddglCddu7FLKPuQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-20?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.5009513635346,
+                "longitude": -90.3334244
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4407 Lemay Ferry Rd",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63129",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "4407 Lemay Ferry Rd",
+                    "St. Louis, MO 63129"
+                ]
+            },
+            "phone": "+13148920550",
+            "display_phone": "(314) 892-0550",
+            "distance": 12436.655440546176
+        },
+        {
+            "id": "GD0_sWqURBSZARKgNgbwRg",
+            "alias": "mcdonalds-st-louis-13",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Rf_WrUoUrYSJ-U_J2M2qlQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-13?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.4962471471578,
+                "longitude": -90.2995531260967
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3282 Telegraph Rd",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63125",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "3282 Telegraph Rd",
+                    "St. Louis, MO 63125"
+                ]
+            },
+            "phone": "+13144871075",
+            "display_phone": "(314) 487-1075",
+            "distance": 13053.68126312958
+        },
+        {
+            "id": "QDgGe--XQrPrap3u5EjAmg",
+            "alias": "mcdonalds-cahokia",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6ytM7g43ivXW9kIzaaGoow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-cahokia?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.5629175855442,
+                "longitude": -90.1775099337101
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1110 Camp Jackson Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Cahokia",
+                "zip_code": "62206",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "1110 Camp Jackson Rd",
+                    "Cahokia, IL 62206"
+                ]
+            },
+            "phone": "+16183379150",
+            "display_phone": "(618) 337-9150",
+            "distance": 13659.114288343966
+        },
+        {
+            "id": "jo37YLQJyWhuKBdjlKpoAw",
+            "alias": "mcdonalds-saint-louis-64",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BucJYF75U44_InsFingZLA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-saint-louis-64?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.4939904416972,
+                "longitude": -90.380927324295
+            },
+            "transactions": [],
+            "location": {
+                "address1": "13050 Tesson Ferry Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63128",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "13050 Tesson Ferry Rd",
+                    "Saint Louis, MO 63128"
+                ]
+            },
+            "phone": "+13148437112",
+            "display_phone": "(314) 843-7112",
+            "distance": 14148.867978186367
+        },
+        {
+            "id": "7dfl5-n6r_8EJVh811q9hQ",
+            "alias": "mcdonalds-saint-louis-62",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vI8LgS0ui-YAsPq09sHsTA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-saint-louis-62?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 38.735496,
+                "longitude": -90.2784924
+            },
+            "transactions": [],
+            "location": {
+                "address1": "9131 W Florissant",
+                "address2": null,
+                "address3": null,
+                "city": "Saint Louis",
+                "zip_code": "63136",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "9131 W Florissant",
+                    "Saint Louis, MO 63136"
+                ]
+            },
+            "phone": "+13145244366",
+            "display_phone": "(314) 524-4366",
+            "distance": 14184.518759487228
+        },
+        {
+            "id": "c4x06huNhVp04VI_MUiQsw",
+            "alias": "mcdonalds-valley-park-2",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HICC5Zze0k1-yhSRS5Xi2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-valley-park-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.566874,
+                "longitude": -90.476937
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "13600 Big Bend Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Valley Park",
+                "zip_code": "63088",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "13600 Big Bend Rd",
+                    "Valley Park, MO 63088"
+                ]
+            },
+            "phone": "+16368617080",
+            "display_phone": "(636) 861-7080",
+            "distance": 14439.004798322765
+        },
+        {
+            "id": "WXvQTyjP4lL94K9aauWVmw",
+            "alias": "mcdonalds-st-louis-17",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xxqkdGRIROMOSd3bAvyzdw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-17?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.7003096520475,
+                "longitude": -90.4438103735447
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "25 Westport Plaza Dr",
+                "address2": "",
+                "address3": "",
+                "city": "St. Louis",
+                "zip_code": "63146",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "25 Westport Plaza Dr",
+                    "St. Louis, MO 63146"
+                ]
+            },
+            "phone": "+13142759999",
+            "display_phone": "(314) 275-9999",
+            "distance": 14444.027630443654
+        },
+        {
+            "id": "4CdXVM7-7ek6sNs11gaVuQ",
+            "alias": "mcdonalds-st-ann",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KYkLLPntfDHzoVQ83IKN3g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-ann?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.733502,
+                "longitude": -90.390936
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "10805 Saint Charles Rock Rd",
+                "address2": "",
+                "address3": "",
+                "city": "St. Ann",
+                "zip_code": "63074",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "10805 Saint Charles Rock Rd",
+                    "St. Ann, MO 63074"
+                ]
+            },
+            "phone": "+13147394000",
+            "display_phone": "(314) 739-4000",
+            "distance": 14759.077792920722
+        },
+        {
+            "id": "9eYm5gwEOhBQdkg9ihV7EA",
+            "alias": "mcdonalds-manchester-46",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZJBBNDB3GZKY9SeKYkf-TQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-manchester-46?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 3,
+            "coordinates": {
+                "latitude": 38.5946168766126,
+                "longitude": -90.4922792315483
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "14026 Manchester Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Manchester",
+                "zip_code": "63011",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "14026 Manchester Rd",
+                    "Manchester, MO 63011"
+                ]
+            },
+            "phone": "+16362560027",
+            "display_phone": "(636) 256-0027",
+            "distance": 14984.200165688515
+        },
+        {
+            "id": "X4Z8Iq0hICOjHdc-0NT_jg",
+            "alias": "mcdonalds-fenton-7",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XEPFsX_SARil2WRRatZotw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-fenton-7?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.5405439212826,
+                "longitude": -90.4706720915146
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1867 Bowles Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Fenton",
+                "zip_code": "63026",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "1867 Bowles Ave",
+                    "Fenton, MO 63026"
+                ]
+            },
+            "phone": "+16363050570",
+            "display_phone": "(636) 305-0570",
+            "distance": 15242.354940896574
+        },
+        {
+            "id": "45RduxnVKS8kB1sU_p2mUQ",
+            "alias": "mcdonalds-fenton-6",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CuVHpKpRe1327KAX1Oyerw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-fenton-6?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.515728,
+                "longitude": -90.4501161
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "501 Old Smizer Mill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Fenton",
+                "zip_code": "63026",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "501 Old Smizer Mill Rd",
+                    "Fenton, MO 63026"
+                ]
+            },
+            "phone": "+16363433713",
+            "display_phone": "(636) 343-3713",
+            "distance": 15520.431749630363
+        },
+        {
+            "id": "3RRvxFR5V_p4NicI7DGVEA",
+            "alias": "mcdonalds-st-louis-8",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RT6MaOIMgd60X1-4nqGSRg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-st-louis-8?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.4715782555417,
+                "longitude": -90.3054399043322
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "5537 Telegraph Rd",
+                "address2": null,
+                "address3": null,
+                "city": "St. Louis",
+                "zip_code": "63129",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "5537 Telegraph Rd",
+                    "St. Louis, MO 63129"
+                ]
+            },
+            "phone": "+13148921310",
+            "display_phone": "(314) 892-1310",
+            "distance": 15719.41774467498
+        },
+        {
+            "id": "V2aRYSwy862tExL-pBUFtg",
+            "alias": "mcdonalds-maryland-heights",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n79KdG7Bagd2B_tlpiKx7Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-maryland-heights?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 21,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.7142152286897,
+                "longitude": -90.4566896011887
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "12680 Dorsett Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Maryland Heights",
+                "zip_code": "63043",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "12680 Dorsett Rd",
+                    "Maryland Heights, MO 63043"
+                ]
+            },
+            "phone": "+13143178800",
+            "display_phone": "(314) 317-8800",
+            "distance": 16317.421487376414
+        },
+        {
+            "id": "uaZ47AIsOI-VlQG8GEGvOQ",
+            "alias": "mcdonalds-east-st-louis",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TaggvDB9ChvCMzYFLq3oQg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-east-st-louis?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 38.6160300799191,
+                "longitude": -90.1282176375389
+            },
+            "transactions": [],
+            "location": {
+                "address1": "588 N 24th St",
+                "address2": "",
+                "address3": "",
+                "city": "East St. Louis",
+                "zip_code": "62205",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "588 N 24th St",
+                    "East St. Louis, IL 62205"
+                ]
+            },
+            "phone": "+16188746237",
+            "display_phone": "(618) 874-6237",
+            "distance": 16784.939624357077
+        },
+        {
+            "id": "oLV14RPXy_gCS9gvlAofSg",
+            "alias": "mcdonalds-chesterfield-15",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nsLHZVNqvnOS-E6_4jUyhg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-chesterfield-15?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.6261663223136,
+                "longitude": -90.5164505448192
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "101 Lamp And Lantern Vlg",
+                "address2": "",
+                "address3": "",
+                "city": "Chesterfield",
+                "zip_code": "63017",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "101 Lamp And Lantern Vlg",
+                    "Chesterfield, MO 63017"
+                ]
+            },
+            "phone": "+16363911772",
+            "display_phone": "(636) 391-1772",
+            "distance": 17018.870640770998
+        },
+        {
+            "id": "TfYFyl8WFLPKGTcRz8AMpw",
+            "alias": "mcdonalds-peerless-park",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wjpuKfQjD4fKHbsYVP-fbg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-peerless-park?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.537533,
+                "longitude": -90.4943253
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2109 Smizer Station Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Peerless Park",
+                "zip_code": "63088",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "2109 Smizer Station Rd",
+                    "Peerless Park, MO 63088"
+                ]
+            },
+            "phone": "+16362255665",
+            "display_phone": "(636) 225-5665",
+            "distance": 17187.454012785907
+        },
+        {
+            "id": "phh8Fo60_xBmNXyvdovTbQ",
+            "alias": "mcdonalds-chesterfield-3",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/re4-gOZM42rdhSVD5D-Bng/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-chesterfield-3?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.680101,
+                "longitude": -90.501006
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "13559 Olive St Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Chesterfield",
+                "zip_code": "63017",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "13559 Olive St Rd",
+                    "Chesterfield, MO 63017"
+                ]
+            },
+            "phone": "+13148786620",
+            "display_phone": "(314) 878-6620",
+            "distance": 17323.495006983736
+        },
+        {
+            "id": "QwwljXNHdWjb6UkIFJZTlg",
+            "alias": "mcdonalds-ferguson",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nBJtfzE-3L7m7cBAd2yH_A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-ferguson?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 38.768004230176,
+                "longitude": -90.2808393537998
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "10873 W Florissant Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Ferguson",
+                "zip_code": "63136",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "10873 W Florissant Ave",
+                    "Ferguson, MO 63136"
+                ]
+            },
+            "phone": "+13145212272",
+            "display_phone": "(314) 521-2272",
+            "distance": 17656.25241479349
+        },
+        {
+            "id": "VZxyWuhu_wF1wqeZHo2uDg",
+            "alias": "mcdonalds-hazelwood-4",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S4YMsltg9AhDPBbpSpJa3g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-hazelwood-4?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.7738449515685,
+                "longitude": -90.3357924520969
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8700 Pershall Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Hazelwood",
+                "zip_code": "63042",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "8700 Pershall Rd",
+                    "Hazelwood, MO 63042"
+                ]
+            },
+            "phone": "+13145221070",
+            "display_phone": "(314) 522-1070",
+            "distance": 17995.793124766493
+        },
+        {
+            "id": "d4qVVElEjQrsKBg3ytSWww",
+            "alias": "mcdonalds-granite-city-4",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/INt7HnpoLMXIbNIDFWerYA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-granite-city-4?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.7008355402821,
+                "longitude": -90.1455608010292
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2045 Madison Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Granite City",
+                "zip_code": "62040",
+                "country": "US",
+                "state": "IL",
+                "display_address": [
+                    "2045 Madison Ave",
+                    "Granite City, IL 62040"
+                ]
+            },
+            "phone": "+16188769120",
+            "display_phone": "(618) 876-9120",
+            "distance": 18157.6421727552
+        },
+        {
+            "id": "MLNZIwvYb7MiVkSm0lFFhA",
+            "alias": "mcdonalds-bridgeton-2",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WMFlPVzVdrcA1UM1HmrKLw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-bridgeton-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2,
+            "coordinates": {
+                "latitude": 38.7573818002836,
+                "longitude": -90.4300734400749
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "12499 Natural Bridge Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Bridgeton",
+                "zip_code": "63044",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "12499 Natural Bridge Rd",
+                    "Bridgeton, MO 63044"
+                ]
+            },
+            "phone": "+13147391232",
+            "display_phone": "(314) 739-1232",
+            "distance": 18680.42755293432
+        },
+        {
+            "id": "wkIwr6GfkhoodGV-thcICg",
+            "alias": "mcdonalds-arnold-4",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZkkziCTVGt8BYlozkvS4Sw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-arnold-4?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1,
+            "coordinates": {
+                "latitude": 38.4449670228374,
+                "longitude": -90.3758814185858
+            },
+            "transactions": [],
+            "location": {
+                "address1": "130 Arnold Cross Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Arnold",
+                "zip_code": "63010",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "130 Arnold Cross Rd",
+                    "Arnold, MO 63010"
+                ]
+            },
+            "phone": "+16362968841",
+            "display_phone": "(636) 296-8841",
+            "distance": 19212.226899805664
+        },
+        {
+            "id": "3gqWbaq86WGLScQlcMXEyg",
+            "alias": "mcdonalds-hazelwood-3",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oB_ZKLljzbrOLXzqLgN0KQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-hazelwood-3?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.7833590415188,
+                "longitude": -90.3549090510069
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "7300 N Lindbergh",
+                "address2": null,
+                "address3": null,
+                "city": "Hazelwood",
+                "zip_code": "63042",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "7300 N Lindbergh",
+                    "Hazelwood, MO 63042"
+                ]
+            },
+            "phone": "+13149218448",
+            "display_phone": "(314) 921-8448",
+            "distance": 19231.79565179095
+        },
+        {
+            "id": "XK-mrAzh0cxD4U5Kmhy0fw",
+            "alias": "mcdonalds-hazelwood-5",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fBmH3hlKpw9xgbCiuur2oQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-hazelwood-5?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 38.7836610121759,
+                "longitude": -90.3787265717984
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6270 Howdershell Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Hazelwood",
+                "zip_code": "63042",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "6270 Howdershell Rd",
+                    "Hazelwood, MO 63042"
+                ]
+            },
+            "phone": "+13147315596",
+            "display_phone": "(314) 731-5596",
+            "distance": 19683.775752468508
+        },
+        {
+            "id": "kQhmw4RexXf6rfjpiysjkA",
+            "alias": "mcdonalds-fenton-2",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rQuSVmyIlG1UK_aX8uaoIw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-fenton-2?adjust_creative=XhWqukU5Fg1mOo0JAvO2AA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XhWqukU5Fg1mOo0JAvO2AA",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 38.489711,
+                "longitude": -90.486513
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "100 Old Sugar Creek Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Fenton",
+                "zip_code": "63026",
+                "country": "US",
+                "state": "MO",
+                "display_address": [
+                    "100 Old Sugar Creek Rd",
+                    "Fenton, MO 63026"
+                ]
+            },
+            "phone": "+16363434605",
+            "display_phone": "(636) 343-4605",
+            "distance": 19808.88412110255
+        }
+    ],
+    "total": 1200,
+    "region": {
+        "center": {
+            "longitude": -90.32135009765625,
+            "latitude": 38.61239775768799
+        }
+    }
+}
